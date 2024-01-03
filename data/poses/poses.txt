@@ -294,3 +294,8 @@
 ---- Gigantes
 #load gigantetroops ./data/poses/gigante/troops.txt
 #load gigantemages ./data/poses/gigante/mages.txt
+
+---- Kitsune
+#load kitsunetroops ./data/poses/kitsune/troops.txt
+#load kitsunemages ./data/poses/kitsune/mages.txt
+#load kitsunecavalry ./data/poses/kitsune/cavalry.txt
