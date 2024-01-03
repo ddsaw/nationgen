@@ -1,0 +1,6 @@
+#newitem
+#id orange_foxtail
+#gameid -1
+#sprite /graphics/kitsune/normal_orange.png
+#define "#descr 'All Kitsune have a fluffy tail.'"
+#enditem
