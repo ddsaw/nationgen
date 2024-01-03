@@ -7,12 +7,13 @@
 
 #baseitemslot feet 0
 
-#renderorder "shadow cloakb mount basesprite shirt legs armor cloakf bonusweapon weapon offhandw hands hair helmet offhanda overlay"
+#renderorder "shadow cloakb wings mount basesprite shirt legs armor cloakf bonusweapon weapon offhandw hands hair helmet offhanda overlay"
 
 #load basesprite /data/items/human/normal/humanbases.txt
 #load mount /data/items/human/human_mounted/humanmounts.txt 5 -15
 
 #load hands /data/items/human/normal/humanhands.txt
+#load wings /data/items/kitsune/normal/wings.txt
 
 #load cloakf /data/items/human/normal/humancloakf.txt
 #load cloakb /data/items/human/normal/humancloakb.txt
@@ -30,6 +31,7 @@
 #load overlay /data/items/human/human_mounted/mountedoverlay.txt
 
 #writeslot lanceslot
+#generateitem 1 wings
 #endpose
 
 
@@ -43,10 +45,13 @@
 
 #baseitemslot feet 0
 
+#renderorder "shadow cloakb wings basesprite mount shirt legs armor cloakf quiver bonusweapon weapon offhandw hands hair helmet offhanda overlay"
+
 #load basesprite /data/items/human/normal/humanbases.txt 
 #load mount /data/items/human/human_mounted/humanmounts_low.txt 5 -15
 
 #load hands /data/items/human/normal/humanhands.txt
+#load wings /data/items/kitsune/normal/wings.txt
 
 #load cloakf /data/items/human/normal/humancloakf.txt
 #load cloakb /data/items/human/normal/humancloakb.txt
@@ -67,6 +72,7 @@
 #load overlay /data/items/human/human_mounted/mountedoverlay.txt
 
 #writeslot lanceslot
+#generateitem 1 wings
 #endpose
 
 ----------- Charioteers
@@ -81,11 +87,14 @@
 
 #baseitemslot feet 0
 
+#renderorder "shadow cloakb wings basesprite mount shirt legs armor cloakf quiver bonusweapon weapon offhandw hands hair helmet offhanda overlay"
+
 #load mount /data/items/oriental/mounted/bases_chariot.txt
 
 #load basesprite /data/items/human/normal/humanbases.txt
 
 #load hands /data/items/human/normal/humanhands.txt
+#load wings /data/items/kitsune/normal/wings.txt
 #load legs /data/items/oriental/normal/legs.txt
 
 #load armor /data/items/oriental/normal/armor.txt
@@ -101,4 +110,5 @@
 #load bonusweapon /data/items/human/normal/humanbonusranged.txt
 
 #load overlay /data/items/human/human_mounted/mountedoverlay.txt
+#generateitem 1 wings
 #endpose

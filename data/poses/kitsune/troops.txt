@@ -5,9 +5,12 @@
 #role "infantry"
 #role "scout"
 
+#renderorder "shadow cloakb wings basesprite mount shirt legs armor cloakf quiver bonusweapon weapon offhandw hands hair helmet offhanda overlay"
+
 #load basesprite /data/items/human/normal/humanbases.txt
 #load shadow /data/items/human/normal/shadow.txt
 #load hands /data/items/human/normal/humanhands.txt
+#load wings /data/items/kitsune/normal/wings.txt
 #load legs /data/items/oriental/normal/legs.txt
 
 
@@ -24,6 +27,7 @@
 
 #load bonusweapon /data/items/human/sacredstuff/sacredbonusweapons.txt
 #load bonusweapon /data/items/human/normal/humanbonusranged.txt
+#generateitem 1 wings
 #endpose
 
 -------- 2h
@@ -31,11 +35,12 @@
 #newpose
 #role "infantry"
 
-#renderorder "shadow cloakb basesprite mount shirt legs armor cloakf quiver spaulder bonusweapon weapon offhandw hands hair helmet offhanda overlay"
+#renderorder "shadow cloakb wings basesprite mount shirt legs armor cloakf quiver spaulder bonusweapon weapon offhandw hands hair helmet offhanda overlay"
 
 #load basesprite /data/items/human/2h/humanbases.txt
 #load shadow /data/items/human/normal/shadow.txt
 #load hands /data/items/human/2h/humanhands.txt
+#load wings /data/items/kitsune/normal/wings.txt
 #load legs /data/items/oriental/normal/legs.txt
 
 #load armor /data/items/oriental/2h/armor.txt
@@ -48,18 +53,19 @@
 #load cloakf /data/items/human/normal/humancloakf.txt
 #load cloakb /data/items/human/normal/humancloakb.txt
 
-
+#generateitem 1 wings
 #endpose
 
 -------- ranged
 
 #newpose
 #role "ranged"
-#renderorder "shadow cloakb basesprite mount shirt legs armor quiver cloakf spaulder bonusweapon weapon offhandw hands hair helmet offhanda overlay"
+#renderorder "shadow cloakb wings basesprite mount shirt legs armor quiver cloakf spaulder bonusweapon weapon offhandw hands hair helmet offhanda overlay"
 
 #load basesprite /data/items/human/2h/humanbases.txt
 #load shadow /data/items/human/normal/shadow.txt
 #load hands /data/items/human/2h/humanhands.txt
+#load wings /data/items/kitsune/normal/wings.txt
 #load legs /data/items/oriental/normal/legs.txt
 
 #load armor /data/items/oriental/2h/armor.txt
@@ -74,5 +80,6 @@
 #load cloakf /data/items/human/normal/humancloakf.txt
 #load cloakb /data/items/human/normal/humancloakb.txt
 #generateitem 1 bonusweapon
+#generateitem 1 wings
 #endpose
 

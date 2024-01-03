@@ -6,9 +6,13 @@
 #role "mage"
 #role "priest"
 
+#renderorder "shadow cloakb wings basesprite mount shirt legs armor cloakf quiver bonusweapon weapon offhandw hands hair helmet offhanda overlay"
+
+
 #load basesprite /data/items/human/normal/humanbases.txt
 #load shadow /data/items/human/normal/shadow.txt
 #load hands /data/items/human/normal/humanhands.txt
+#load wings /data/items/kitsune/normal/wings.txt
 
 #load cloakf /data/items/human/normal/humancloakf.txt
 #load cloakb /data/items/human/normal/humancloakb.txt
@@ -22,4 +26,5 @@
 #load helmet /data/items/human/caster/humanspecific_helmet.txt
 #load offhand /data/items/human/caster/offhands.txt
 
+#generateitem 1 wings
 #endpose
