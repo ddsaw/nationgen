@@ -4,8 +4,12 @@
 #newpose
 #role "infantry"
 #role "scout"
+
+#renderorder "shadow cloakb wings basesprite mount shirt legs armor cloakf quiver bonusweapon weapon offhandw hands hair helmet offhanda overlay"
+
 #load basesprite /data/items/human/normal/humanbases.txt
 #load shadow /data/items/human/normal/shadow.txt
+#load wings /data/items/kitsune/normal/wings.txt
 #load hands /data/items/human/normal/humanhands.txt
 #load legs /data/items/oriental/normal/legs.txt
 

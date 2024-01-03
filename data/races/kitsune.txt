@@ -33,4 +33,6 @@
 
 #chanceinc "primaryrace Tengu *4"
 
+#description "Kitsune are Youkai that take the shape of comely women with vulpine features. When in grave danger, Kitsune are known to turn into their true form and flee."
+
 #endrace

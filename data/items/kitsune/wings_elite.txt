@@ -1,0 +1,220 @@
+--- Hands belonging to an armor set should be given id of the lowest prot armor they go with if you want to avoid naked people with plate gloves.
+
+#newitem
+#id spirehornwings-elite
+#elite
+#sacred
+#gameid -1
+#sprite /graphics/caelian/spirehornwings.png
+-- #chanceinc era 1 *1
+-- #chanceinc era 2 *1
+-- #chanceinc era 3 *1
+#theme spirehorn_elite
+#needs overlay spirehornwings
+#define "#coldres +5"
+#define "#shockres +5"
+#define "#stormimmune"
+#define "#flying"
+#subrace "Spire Horn"
+#tag "winged"
+#subraceprefix "spire horn"
+#define "#twiceborn 3180"
+#enditem
+
+#newitem
+#id airyawings-elite
+#elite
+#sacred
+#gameid -1
+#sprite /graphics/caelian/airyawings.png
+-- #chanceinc era 1 *1
+-- #chanceinc era 2 *1
+#chanceinc era 3 *0.75
+#theme airya_elite
+#needs overlay airyawings
+#define "#hp -1"
+#define "#mr +1"
+#define "#str -1"
+#define "#coldres +15"
+#define "#flying"
+#subrace "Airya"
+#tag "winged"
+#subraceprefix "airya"
+#define "#twiceborn 3180"
+#enditem
+
+#newitem
+#id raptorwings-elite
+#elite
+#sacred
+#gameid -1
+#sprite /graphics/caelian/raptorwings.png
+-- #chanceinc era 1 *1
+-- #chanceinc era 2 *1
+-- #chanceinc era 3 *1
+#theme raptor_elite
+#needs overlay raptorwings
+#define "#hp +1"
+#define "#mr -1"
+#define "#mor +1"
+#define "#att +1"
+#define "#def +1"
+#define "#prec -1"
+#define "#flying"
+#subrace "Raptor"
+#tag "winged"
+#subraceprefix "raptor"
+#define "#twiceborn 3180"
+#enditem
+
+#newitem
+#id yazatawings-elite
+#elite
+#sacred
+#gameid -1
+#sprite /graphics/caelian/yazatawings.png
+-- #chanceinc era 1 *1
+#chanceinc era 2 *0.25
+#chanceinc era 3 *0.05
+#theme yazata_elite
+#needs overlay yazatawings
+#define "#gcost 40"
+#define "#rpost 40020"
+#define "#hp +6"
+#define "#mr +4"
+#define "#mor +4"
+#define "#str +2"
+#define "#att +3"
+#define "#def +3"
+#define "#prec +1"
+#define "#enc -2"
+#define "#ap +5"
+#define "#maxage 300"
+#define "#coldres +5"
+#define "#shockres +10"
+#define "#awe +2"
+#define "#magicbeing"
+#define "#stormimmune"
+#define "#flying"
+#subrace "Yazata"
+#subraceprefix "yazata"
+#tag "noble"
+#tag "winged"
+#caponlychance 1
+#sacredcostmulti 1.2
+#sacredratingmulti 1.4
+#innate_sacred_power 2
+#define "#twiceborn 3180"
+#enditem
+
+#newitem
+#id daevawings-elite
+#elite
+#sacred
+#gameid -1
+#sprite /graphics/caelian/daevawings.png
+-- #chanceinc era 1 *1
+#chanceinc era 2 *0.25
+#chanceinc era 3 *0.05
+#theme daeva_elite
+#needs overlay daevawings
+#define "#gcost 50"
+#define "#rpcost 50030"
+#define "#hp +6"
+#define "#mr +4"
+#define "#mor +4"
+#define "#str +2"
+#define "#att +3"
+#define "#def +3"
+#define "#prec +1"
+#define "#enc -2"
+#define "#ap +5"
+#define "#maxage 300"
+#define "#fireres +5"
+#define "#shockres +5"
+#define "#chaospower +1"
+#define "#fear +5"
+#define "#demon"
+#define "#flying"
+-- #define "#reclimit 3"
+#subrace "Daeva"
+#subraceprefix "daeva"
+#tag "noble"
+#tag "winged"
+#caponlychance 1
+#sacredcostmulti 1.2
+#sacredratingmulti 1.4
+#innate_sacred_power 2
+#define "#twiceborn 3180"
+#enditem
+
+#newitem
+#id mairyawings-elite
+#elite
+#sacred
+#gameid -1
+#sprite /graphics/caelian/mairyawings.png
+#basechance 1
+-- #chanceinc era 1 *1
+-- #chanceinc era 2 *1
+#chanceinc era 3 *0.75
+#theme mairya_elite
+#needs overlay mairyawings
+#define "#gcost 15"
+#define "#rpcost 15000"
+#define "#hp +2"
+#define "#mor +2"
+#define "#str +1"
+#define "#att +2"
+#define "#def +2"
+#define "#prec -1"
+#define "#flying"
+#subrace "Mairya"
+#tag "winged"
+#subraceprefix "mairya"
+#define "#twiceborn 3180"
+#enditem
+
+#newitem
+#id hybridwings-elite
+#elite
+#sacred
+#gameid -1
+#sprite /graphics/caelian/hybridwings.png
+#chanceinc era 1 *0.5
+-- #chanceinc era 2 *1
+#chanceinc era 3 *1.5
+#theme hybrid_elite
+#needs overlay hybridwings
+#define "#hp +1"
+#define "#mr -1"
+#define "#mor +1"
+#define "#att +1"
+#define "#def +1"
+#define "#prec -1"
+#define "#coldres +5"
+#define "#flying"
+#tag "winged"
+#define "#twiceborn 3180"
+#enditem
+
+#newitem
+#id nowings-elite
+#elite
+#sacred
+#gameid -1
+#chanceinc era 1 *0.25
+#chanceinc era 2 *0.5
+#chanceinc era 3 *2
+#theme wingless_elite
+#needs overlay nowings
+#define "#size 2"
+#define "#hp -1"
+#define "#mor +4"
+#define "#str -1"
+#define "#enc -1"
+#define "#mapmove 16"
+#define "#ap 12"
+#subrace "Wingless"
+#subraceprefix "wingless"
+#enditem
