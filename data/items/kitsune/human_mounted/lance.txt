@@ -1,0 +1,21 @@
+#newitem
+#id lance
+#gameid 4
+#sprite /graphics/weapon/standard/lance.png
+#tag "name lancer"
+#renderprio 7
+#renderslot "weapon"
+#theme "iron"
+#lance
+#enditem
+
+#newitem
+#id bronzelance
+#gameid heavybronzelance
+#sprite /graphics/weapon/bronze/heavylance.png
+#tag "name lancer"
+#renderprio 7
+#renderslot "weapon"
+#theme "bronze"
+#lance
+#enditem

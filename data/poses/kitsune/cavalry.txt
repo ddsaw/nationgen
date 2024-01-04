@@ -9,7 +9,7 @@
 
 #renderorder "shadow cloakb tails mount basesprite shirt legs armor cloakf bonusweapon weapon offhandw hands hair helmet offhanda overlay"
 
-#load basesprite /data/items/human/normal/humanbases.txt
+#load basesprite /data/items/human_female/normal/humanbases.txt
 #load mount /data/items/human/human_mounted/humanmounts.txt 5 -15
 
 #load hands /data/items/human/normal/humanhands.txt
@@ -17,9 +17,9 @@
 
 #load cloakf /data/items/human/normal/humancloakf.txt
 #load cloakb /data/items/human/normal/humancloakb.txt
-#load shirt /data/items/human/normal/humanshirt.txt
+#load shirt /data/items/human_female/normal/humanshirt.txt
 
-#load armor /data/items/oriental/mounted/armor.txt
+#load armor /data/items/oriental_female/mounted/armor.txt
 #load helmet /data/items/oriental/normal/helmet.txt
 
 #load weapon /data/items/oriental/normal/weapon.txt
@@ -47,7 +47,7 @@
 
 #renderorder "shadow cloakb tails basesprite mount shirt legs armor cloakf quiver bonusweapon weapon offhandw hands hair helmet offhanda overlay"
 
-#load basesprite /data/items/human/normal/humanbases.txt 
+#load basesprite /data/items/human_female/normal/humanbases.txt 
 #load mount /data/items/human/human_mounted/humanmounts_low.txt 5 -15
 
 #load hands /data/items/human/normal/humanhands.txt
@@ -55,9 +55,9 @@
 
 #load cloakf /data/items/human/normal/humancloakf.txt
 #load cloakb /data/items/human/normal/humancloakb.txt
-#load shirt /data/items/human/normal/humanshirt.txt
+#load shirt /data/items/human_female/normal/humanshirt.txt
 
-#load armor /data/items/oriental/mounted/armor.txt
+#load armor /data/items/oriental_female/mounted/armor.txt
 #load helmet /data/items/oriental/normal/helmet.txt
 
 #load weapon /data/items/oriental/normal/weapon.txt
@@ -89,15 +89,15 @@
 
 #renderorder "shadow cloakb tails basesprite mount shirt legs armor cloakf quiver bonusweapon weapon offhandw hands hair helmet offhanda overlay"
 
-#load mount /data/items/oriental/mounted/bases_chariot.txt
+#load mount /data/items/oriental_female/mounted/bases_chariot.txt
 
-#load basesprite /data/items/human/normal/humanbases.txt
+#load basesprite /data/items/human_female/normal/humanbases.txt
 
 #load hands /data/items/human/normal/humanhands.txt
 #load tails /data/items/kitsune/normal/tails.txt
 #load legs /data/items/oriental/normal/legs.txt
 
-#load armor /data/items/oriental/normal/armor.txt
+#load armor /data/items/oriental_female/normal/armor.txt
 
 #load weapon /data/items/oriental/normal/weapon.txt
 

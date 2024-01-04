@@ -7,14 +7,14 @@
 
 #renderorder "shadow cloakb tails basesprite mount shirt legs armor cloakf quiver bonusweapon weapon offhandw hands hair helmet offhanda overlay"
 
-#load basesprite /data/items/human/normal/humanbases.txt
-#load shadow /data/items/human/normal/shadow.txt
-#load hands /data/items/human/normal/humanhands.txt
+#load basesprite /data/items/human_female/normal/humanbases.txt
+#load shadow /data/items/human_female/normal/shadow.txt
+#load hands /data/items/human_female/normal/humanhands.txt
 #load tails /data/items/kitsune/normal/tails.txt
-#load legs /data/items/oriental/normal/legs.txt
+#load legs /data/items/oriental_female/normal/legs.txt
 
 
-#load armor /data/items/oriental/normal/armor.txt
+#load armor /data/items/oriental_female/normal/armor.txt
 
 #load weapon /data/items/oriental/normal/weapon.txt
 #load offhand /data/items/oriental/normal/shields.txt
@@ -23,10 +23,10 @@
 #load helmet /data/items/oriental/normal/helmet.txt
 
 #load cloakf /data/items/human/normal/humancloakf.txt
-#load cloakb /data/items/human/normal/humancloakb.txt
+#load cloakb /data/items/human_female/normal/humancloakb.txt
 
-#load bonusweapon /data/items/human/sacredstuff/sacredbonusweapons.txt
-#load bonusweapon /data/items/human/normal/humanbonusranged.txt
+#load bonusweapon /data/items/human_female/sacredstuff/sacredbonusweapons.txt
+#load bonusweapon /data/items/human_female/normal/humanbonusranged.txt
 #generateitem 1 tails
 #endpose
 
@@ -37,21 +37,21 @@
 
 #renderorder "shadow cloakb tails basesprite mount shirt legs armor cloakf quiver spaulder bonusweapon weapon offhandw hands hair helmet offhanda overlay"
 
-#load basesprite /data/items/human/2h/humanbases.txt
-#load shadow /data/items/human/normal/shadow.txt
-#load hands /data/items/human/2h/humanhands.txt
+#load basesprite /data/items/human_female/2h/humanbases.txt
+#load shadow /data/items/human_female/normal/shadow.txt
+#load hands /data/items/human_female/2h/humanhands.txt
 #load tails /data/items/kitsune/normal/tails.txt
-#load legs /data/items/oriental/normal/legs.txt
+#load legs /data/items/oriental_female/normal/legs.txt
 
-#load armor /data/items/oriental/2h/armor.txt
-#load spaulder /data/items/oriental/2h/spaulder.txt
+#load armor /data/items/oriental_female/2h/armor.txt
+#load spaulder /data/items/oriental_female/2h/spaulder.txt
 
 #load weapon /data/items/oriental/2h/weapon.txt
 
 #load helmet /data/items/oriental/normal/helmet.txt
 
-#load cloakf /data/items/human/normal/humancloakf.txt
-#load cloakb /data/items/human/normal/humancloakb.txt
+#load cloakf /data/items/human_female/normal/humancloakf.txt
+#load cloakb /data/items/human_female/normal/humancloakb.txt
 
 #generateitem 1 tails
 #endpose
@@ -62,23 +62,23 @@
 #role "ranged"
 #renderorder "shadow cloakb tails basesprite mount shirt legs armor quiver cloakf spaulder bonusweapon weapon offhandw hands hair helmet offhanda overlay"
 
-#load basesprite /data/items/human/2h/humanbases.txt
-#load shadow /data/items/human/normal/shadow.txt
-#load hands /data/items/human/2h/humanhands.txt
+#load basesprite /data/items/human_female/2h/humanbases.txt
+#load shadow /data/items/human_female/normal/shadow.txt
+#load hands /data/items/human_female/2h/humanhands.txt
 #load tails /data/items/kitsune/normal/tails.txt
-#load legs /data/items/oriental/normal/legs.txt
+#load legs /data/items/oriental_female/normal/legs.txt
 
-#load armor /data/items/oriental/2h/armor.txt
-#load spaulder /data/items/oriental/2h/spaulder.txt
+#load armor /data/items/oriental_female/2h/armor.txt
+#load spaulder /data/items/oriental_female/2h/spaulder.txt
 
-#load weapon /data/items/human/archer/bows.txt 1 -2
+#load weapon /data/items/human_female/archer/bows.txt 1 -2
 #load quiver /data/items/oriental/archer/quiver.txt
 #load bonusweapon /data/items/oriental/archer/archerweapon.txt
 
 #load helmet /data/items/oriental/normal/helmet.txt
 
-#load cloakf /data/items/human/normal/humancloakf.txt
-#load cloakb /data/items/human/normal/humancloakb.txt
+#load cloakf /data/items/human_female/normal/humancloakf.txt
+#load cloakb /data/items/human_female/normal/humancloakb.txt
 #generateitem 1 bonusweapon
 #generateitem 1 tails
 #endpose

@@ -1,0 +1,30 @@
+#newitem
+#name "wings"
+#gameid -1
+#sprite /graphics/wings.png
+#define "#flying"
+#define "#gcost *1.5"
+#define "size 3"
+#define "ressize 2"
+#define "#mapmove +6"
+#theme "sacred"
+#renderprio 7
+#renderslot "cloakb"
+#description "Has wings and is thus able to fly"
+#tag "winged"
+#define "#twiceborn 3180"
+#enditem
+
+#newitem
+#name "hypnosis"
+#gameid 595
+#basechance 0.01
+#theme "sacred"
+#enditem
+
+#newitem
+#name "thrown sutra"
+#gameid 459
+#basechance 0.01
+#theme "sacred"
+#enditem

@@ -1,0 +1,209 @@
+--- Leather
+#newitem
+#id leathercuirass1
+#gameid 5
+#sprite /graphics/bodyarmor/standard/leathercuirass.png
+#armor
+#theme "leather"
+#enditem
+
+#newitem
+#id leathercuirass2
+#gameid 5
+#sprite /graphics/bodyarmor/standard/leathercuirass2.png
+#armor
+#theme "leather"
+#enditem
+
+#newitem
+#id leatherhauberk1
+#gameid 10
+#sprite /graphics/bodyarmor/archer/leatherhauberk.png
+#armor
+#theme "leather"
+#enditem
+
+#newitem
+#id leatherhauberk2
+#gameid 10
+#sprite /graphics/bodyarmor/archer/leatherhauberk2.png
+#armor
+#theme "leather"
+#enditem
+
+#newitem -- full leather
+#id fullleather
+#gameid 15
+#sprite /graphics/bodyarmor/archer/leatherhauberk.png
+#needs legs leatherpants
+#armor
+#theme "leather"
+#enditem
+
+
+--- Ring
+#newitem
+#id 16
+#gameid 6
+#sprite /graphics/bodyarmor/standard/ringcuirass.png
+#armor
+#basechance 2
+#theme "leather"
+#theme "iron"
+#enditem
+
+#newitem
+#id 17
+#gameid 11
+#sprite /graphics/bodyarmor/archer/ringhauberk.png
+#armor
+#theme "leather"
+#theme "iron"
+#enditem
+
+#newitem
+#id 18
+#gameid 11
+#sprite /graphics/bodyarmor/archer/ringhauberk2.png
+#armor
+#theme "leather"
+#theme "iron"
+#enditem
+
+#newitem -- full ring
+#id 19
+#gameid 16
+#sprite /graphics/bodyarmor/archer/ringhauberk.png
+#armor
+#needs legs ringpants
+#theme "leather"
+#theme "iron"
+#enditem
+
+
+--- Scale
+#newitem
+#id 9
+#gameid 7
+#sprite /graphics/bodyarmor/standard/mailcuirass.png
+#armor
+#theme "iron"
+#enditem
+
+#newitem
+#id 10
+#gameid 12
+#sprite /graphics/bodyarmor/archer/mailhauberk1.png
+#armor
+#basechance 0.25
+#theme "iron"
+#enditem
+
+#newitem
+#id 11
+#gameid 12
+#sprite /graphics/bodyarmor/archer/mailhauberk2.png
+#armor
+#basechance 0.25
+#theme "iron"
+#enditem
+
+#newitem -- full scale
+#id 12
+#gameid 17
+#sprite /graphics/bodyarmor/archer/mailhauberk1.png
+#armor
+#needs legs chainpants
+#basechance 0.25
+#theme "iron"
+#enditem
+
+
+--- Chain Mail
+#newitem
+#id 5
+#gameid 8
+#sprite /graphics/bodyarmor/standard/mailcuirass.png
+#armor
+#theme "iron"
+#enditem
+
+#newitem
+#id 6
+#gameid 13
+#sprite /graphics/bodyarmor/archer/mailhauberk1.png
+#armor
+#basechance 0.25
+#theme "iron"
+#enditem
+
+#newitem
+#id 7
+#gameid 13
+#sprite /graphics/bodyarmor/archer/mailhauberk2.png
+#armor
+#basechance 0.25
+#theme "iron"
+#enditem
+
+#newitem -- full chain
+#id 8
+#gameid 18
+#sprite /graphics/bodyarmor/archer/mailhauberk1.png
+#armor
+#needs legs chainpants
+#basechance 0.25
+#theme "iron"
+#enditem
+
+
+--- Plate
+#newitem
+#id 13
+#gameid 9
+#sprite /graphics/bodyarmor/standard/platecuirass.png
+#armor
+#basechance 0.5
+#theme "iron"
+#enditem
+
+#newitem
+#id 14
+#gameid 14
+#sprite /graphics/bodyarmor/archer/platehauberk.png
+#armor
+#basechance 0.25
+#theme "iron"
+#enditem
+
+#newitem -- full plate
+#id 15
+#gameid 19
+#sprite /graphics/bodyarmor/archer/platehauberk.png
+#armor
+#needs legs platepants
+#basechance 0.125
+#theme "iron"
+#enditem
+
+
+--- Japanese
+#newitem
+#id ashigaruarmor
+#gameid 128
+#sprite /graphics/bodyarmor/archer/ashigaruarmor.png
+#recolormask /graphics/bodyarmor/archer/ashigaruarmor_recolormask.png
+#armor
+#theme "oriental"
+#basechance 0.5
+#enditem
+
+#newitem
+#id samuraiarmor
+#gameid 129
+#sprite /graphics/bodyarmor/archer/samuraiarmor2.png
+#recolormask /graphics/bodyarmor/archer/samuraiarmor2_recolormask.png
+#armor
+#theme "oriental"
+#basechance 0.5
+#enditem

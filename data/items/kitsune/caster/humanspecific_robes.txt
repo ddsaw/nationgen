@@ -1,0 +1,259 @@
+#newitem
+#id bogarusrobe
+#gameid 158
+#sprite /graphics/bodyarmor/robes/bogarusrobe.png
+#recolormask /graphics/bodyarmor/robes/bogarusrobe_recolormask.png
+#armor
+#tag "tier 3"
+#tag "tier 2"
+#tag "tier 1"
+#enditem
+
+#newitem
+#id bogarusrobe2
+#gameid 158
+#sprite /graphics/bodyarmor/robes/bogarusrobe2.png
+#recolormask /graphics/bodyarmor/robes/bogarusrobe2_recolormask.png
+#armor
+#eliteversion "bogarusrobe"
+#tag "tier 2"
+#tag "tier 1"
+#enditem
+
+#newitem
+#id imperialrobe1
+#gameid 159
+#sprite /graphics/bodyarmor/robes/imperialrobe1.png
+#recolormask /graphics/bodyarmor/robes/imperialrobe1_recolormask.png
+#armor
+#tag "tier 3"
+#tag "eliteversion imperialrobe3"
+#theme official
+#theme administrator
+#enditem
+
+#newitem
+#id imperialrobe2
+#gameid 159
+#sprite /graphics/bodyarmor/robes/imperialrobe2.png
+#recolormask /graphics/bodyarmor/robes/imperialrobe2_recolormask.png
+#armor
+#tag "eliteversion imperialrobe1"
+#tag "eliteversion imperialrobe3"
+#tag "tier 2"
+#tag "tier 1"
+#theme official
+#theme administrator
+#enditem
+
+#newitem
+#id imperialrobe3
+#gameid 159
+#sprite /graphics/bodyarmor/robes/imperialrobe3.png
+#recolormask /graphics/bodyarmor/robes/imperialrobe3_recolormask.png
+#armor
+#tag "tier 3"
+#theme official
+#theme administrator
+#enditem
+
+#newitem
+#id kamirobe1
+#gameid 159
+#sprite /graphics/bodyarmor/robes/kamirobe.png
+#recolormask /graphics/bodyarmor/robes/kamirobe_recolormask1.png
+#armor
+#tag "tier 3"
+#enditem
+
+#newitem
+#id kamirobe2
+#gameid 159
+#sprite /graphics/bodyarmor/robes/kamirobe.png
+#recolormask /graphics/bodyarmor/robes/kamirobe_recolormask2.png
+#armor
+#tag "tier 3"
+#enditem
+
+#newitem
+#id kamirobe3
+#gameid 159
+#sprite /graphics/bodyarmor/robes/kamirobe.png
+#recolormask /graphics/bodyarmor/robes/kamirobe_recolormask3.png
+#armor
+#tag "tier 3"
+#enditem
+
+#newitem
+#id soothsayerarmor1a
+#gameid 6
+#sprite /graphics/bodyarmor/robes/soothsayerarmor1.png
+#recolormask /graphics/bodyarmor/robes/soothsayerarmor1_recolormask1.png
+#armor
+#tag "tier 3"
+#theme official
+#enditem
+
+#newitem
+#id soothsayerarmor1b
+#gameid 6
+#sprite /graphics/bodyarmor/robes/soothsayerarmor1.png
+#recolormask /graphics/bodyarmor/robes/soothsayerarmor1_recolormask2.png
+#armor
+#tag "tier 3"
+#theme official
+#enditem
+
+#newitem
+#id soothsayerarmor2a
+#gameid 5
+#sprite /graphics/bodyarmor/robes/soothsayerarmor2.png
+#recolormask /graphics/bodyarmor/robes/soothsayerarmor1_recolormask1.png
+#armor
+#tag "tier 2"
+#tag "tier 1"
+#tag "eliteversion soothsayarmor1a"
+#theme official
+#enditem
+
+#newitem
+#id soothsayerarmor2b
+#gameid 5
+#sprite /graphics/bodyarmor/robes/soothsayerarmor2.png
+#recolormask /graphics/bodyarmor/robes/soothsayerarmor2_recolormask2.png
+#armor
+#tag "tier 2"
+#tag "tier 1"
+#tag "eliteversion soothsayarmor1b"
+#theme official
+#enditem
+
+#newitem
+#id ilahrobe
+#gameid 158
+#sprite /graphics/bodyarmor/robes/robe_ilah.png
+#recolormask /graphics/bodyarmor/robes/robe_ilah_recolormask.png
+#eliteversion ilahrobe_dim
+#eliteversion ilahrobe_dull
+#armor
+#tier 1
+#notfortier 2
+#notfortier 3
+#theme official
+#theme administrator
+#enditem
+
+#newitem
+#id ilahrobe_dim
+#gameid 158
+#sprite /graphics/bodyarmor/robes/robe_ilah.png
+#recolormask /graphics/bodyarmor/robes/robe_ilah_recolormask_dim.png
+#eliteversion ilahrobe_bright
+#armor
+#notfortier 1
+#tier 2
+#notfortier 3
+#theme official
+#theme administrator
+#enditem
+
+#newitem
+#id ilahrobe_dull
+#gameid 158
+#sprite /graphics/bodyarmor/robes/robe_ilah.png
+#recolormask /graphics/bodyarmor/robes/robe_ilah_recolormask_dull.png
+#eliteversion ilahrobe_middling
+#armor
+#notfortier 1
+#tier 2
+#notfortier 3
+#theme official
+#theme administrator
+#enditem
+
+#newitem
+#id ilahrobe_bright
+#gameid 158
+#sprite /graphics/bodyarmor/robes/robe_ilah.png
+#recolormask /graphics/bodyarmor/robes/robe_ilah_recolormask_bright.png
+#eliteversion ilahrobe_middling
+#armor
+#notfortier 1
+#notfortier 2
+#tier 3
+#theme official
+#theme administrator
+#enditem
+
+#newitem
+#id ilahrobe_middling
+#gameid 158
+#sprite /graphics/bodyarmor/robes/robe_ilah.png
+#recolormask /graphics/bodyarmor/robes/robe_ilah_recolormask_middling.png
+#eliteversion ilahrobe_bright
+#armor
+#notfortier 1
+#notfortier 2
+#tier 3
+#theme official
+#theme administrator
+#enditem
+
+#newitem
+#id gode_furs_grey
+#gameid 44
+#sprite /graphics/bodyarmor/robes/gode_furs_grey.png
+#armor
+#tag "tier 1"
+#tag "eliteversion gode_cloth_light"
+#tag "eliteversion gode_cloth_dark"
+#basechance 0.3
+#theme primitive
+#theme leather
+#enditem
+
+#newitem
+#id gode_furs_black
+#gameid 44
+#sprite /graphics/bodyarmor/robes/gode_furs_black.png
+#armor
+#tag "tier 1"
+#tag "eliteversion gode_cloth_light"
+#tag "eliteversion gode_cloth_dark"
+#basechance 0.3
+#theme primitive
+#theme leather
+#enditem
+
+#newitem
+#id gode_full_leather
+#gameid 15
+#sprite /graphics/bodyarmor/robes/gode_furs_brown.png
+#armor
+#tag "tier 1"
+#tag "eliteversion gode_cloth_light"
+#tag "eliteversion gode_cloth_dark"
+#basechance 0.3
+#theme primitive
+#theme leather
+#enditem
+
+#newitem
+#id gode_cloth_light
+#gameid 10
+#sprite /graphics/bodyarmor/robes/gode_furs_brown.png
+#recolormask /graphics/bodyarmor/robes/gode_furs_recolormask1.png
+#armor
+#tag "tier 2"
+#basechance 0.5
+#enditem
+
+#newitem
+#id gode_cloth_dark
+#gameid 10
+#sprite /graphics/bodyarmor/robes/gode_furs_brown.png
+#recolormask /graphics/bodyarmor/robes/gode_furs_recolormask2.png
+#armor
+#tag "tier 2"
+#basechance 0.5
+#enditem

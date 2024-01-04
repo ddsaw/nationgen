@@ -1,0 +1,108 @@
+
+
+
+--- Samurai
+
+#newitem
+#name "samurai armor"
+#gameid 129
+#sprite /graphics/tengu/armor/mounted/samurai.png
+#recolormask /graphics/tengu/armor/mounted/samurai_recolormask.png
+#tag "eliteversion 'samurai armor elite'"
+#tag "eliteversion 'samurai armor elite2'"
+#armor
+#enditem
+
+#newitem
+#name "samurai armor elite"
+#gameid 129
+#sprite /graphics/tengu/armor/mounted/samurai_elite.png
+#recolormask /graphics/tengu/armor/mounted/samurai_elite_recolormask.png
+#theme "elite"
+#armor
+#enditem
+
+#newitem
+#name "samurai armor elite2"
+#gameid 129
+#sprite /graphics/tengu/armor/mounted/samurai_elite2.png
+#recolormask /graphics/tengu/armor/mounted/samurai_elite2_recolormask.png
+#theme "elite"
+#armor
+#enditem
+
+
+--- Scale
+
+#newitem
+#name "leather hauberk"
+#gameid 10
+#sprite /graphics/tengu/armor/mounted/leather.png
+#recolormask /graphics/tengu/armor/mounted/leather_recolormask.png
+#armor
+#enditem
+
+#newitem
+#name "full leather"
+#gameid 15
+#sprite /graphics/tengu/armor/mounted/leather.png
+#recolormask /graphics/tengu/armor/mounted/leather_recolormask.png
+#armor
+#enditem
+
+
+#newitem
+#name "scale cuirass"
+#gameid 7
+#sprite /graphics/tengu/armor/mounted/scale.png
+#recolormask /graphics/tengu/armor/mounted/scale_recolormask.png
+#armor
+#enditem
+
+#newitem
+#name "ashigaru armor"
+#gameid 128
+#sprite /graphics/tengu/armor/mounted/ashigaru.png
+#recolormask /graphics/tengu/armor/mounted/ashigaru_recolormask.png
+#armor
+#enditem
+
+#newitem
+#name "scale hauberk"
+#gameid 12
+#sprite /graphics/tengu/armor/mounted/scale.png
+#recolormask /graphics/tengu/armor/mounted/scale_recolormask.png
+#armor
+#enditem
+
+#newitem
+#name "full scale"
+#gameid 17
+#sprite /graphics/tengu/armor/mounted/fullscale.png
+#recolormask /graphics/tengu/armor/mounted/fullscale_recolormask.png
+#armor
+#enditem
+
+-- Advanced-only plate armor
+
+#newitem
+#name "nanban hauberk"
+#gameid 14
+#basechance 0
+#chanceinc racetheme advanced 0.5
+#sprite /graphics/tengu/armor/mounted/nanban.png
+#recolormask /graphics/tengu/armor/mounted/samurai_recolormask.png
+#tag "eliteversion 'nanban hauberk elite'"
+#armor
+#enditem
+
+#newitem
+#name "nanban hauberk elite"
+#gameid 14
+#basechance 0
+#chanceinc racetheme advanced 0.5
+#sprite /graphics/tengu/armor/mounted/nanban_elite.png
+#recolormask /graphics/tengu/armor/mounted/samurai_elite_recolormask.png
+#theme "elite"
+#armor
+#enditem
