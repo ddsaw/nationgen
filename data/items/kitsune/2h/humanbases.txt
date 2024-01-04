@@ -2,5 +2,17 @@
 #name "human basesprite 2h"
 #gameid -1
 #sprite /graphics/kitsune/bases/basekitsune_2h.png
+#armor
+#command "#female"
+#command "#secondshape kitsune"
+#command "#maxage 999"
+#command "#att 11"
+#command "#def 12"
+#command "#mor 9"
+#command "#str 8"
+#command "#mr 12"
+#command "#hp 9"
+#command "#size 2"
+#noshapeshift
 #slow_militia
 #enditem

@@ -59,6 +59,30 @@
 #end
 
 #new secondshape
+#name "kitsune"
+#command "#spr1 ./graphics/shapes/kitsune_1.png"
+#command "#spr2 ./graphics/shapes/kitsune_2.png"
+#command "#magicboost 53 -1"
+#command "#name Kitsune"
+#command "#weapon 20"
+#command "#weapon 29"
+#command "#size 1"
+#command "#hp 5"
+#command "#prot 2"
+#command "#mor 4"
+#command "#mr 14"
+#command "#enc 2"
+#command "#str 6"
+#command "#att 10"
+#command "#def 14"
+#command "#prec 5"
+#command "#mapmove 14"
+#command "#ap 12"
+#command "#forestsurvival"
+#command "#female"
+#end
+
+#new secondshape
 #name "wolf"
 #command "#copystats 284"
 #command "#copyspr 284"
