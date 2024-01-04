@@ -20,7 +20,7 @@
 #load offhand /data/items/oriental/normal/shields.txt
 #load offhand /data/items/oriental/normal/offhand.txt
 
-#load hair /data/items/human/normal/humanhair.txt
+#load hair /data/items/kitsune/normal/humanhair.txt
 #load helmet /data/items/oriental/normal/helmet.txt
 
 #load cloakf /data/items/human/normal/humancloakf.txt
@@ -50,7 +50,7 @@
 
 #load weapon /data/items/oriental/2h/weapon.txt
 
-#load hair /data/items/human/normal/humanhair.txt offsetx 0 offsety 1
+#load hair /data/items/kitsune/normal/humanhair.txt offsetx 0 offsety 1
 #load helmet /data/items/oriental/normal/helmet.txt
 
 #load cloakf /data/items/kitsune/normal/humancloakf.txt
@@ -79,7 +79,7 @@
 #load quiver /data/items/oriental/archer/quiver.txt
 #load bonusweapon /data/items/oriental/archer/archerweapon.txt
 
-#load hair /data/items/human/normal/humanhair.txt offsetx 0 offsety 1
+#load hair /data/items/kitsune/normal/humanhair.txt offsetx 0 offsety 1
 #load helmet /data/items/oriental/normal/helmet.txt
 
 #load cloakf /data/items/kitsune/normal/humancloakf.txt
