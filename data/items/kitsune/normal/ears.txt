@@ -1,0 +1,6 @@
+#newitem
+#id orange_foxears
+#gameid -1
+#sprite /graphics/kitsune/normal_orange_ears.png
+#define "#descr 'All Kitsune have big fluffy fox ears.'"
+#enditem

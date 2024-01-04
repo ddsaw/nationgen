@@ -1,7 +1,7 @@
 #newitem
 #id 1
 #gameid -1
-#sprite /graphics/hands/standard/hands.png
+#sprite /graphics/kitsune/hands/hands.png
 #enditem
 
 #newitem

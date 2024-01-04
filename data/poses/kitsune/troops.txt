@@ -5,12 +5,13 @@
 #role "infantry"
 #role "scout"
 
-#renderorder "shadow cloakb tails basesprite mount shirt legs armor cloakf quiver bonusweapon weapon offhandw hands hair helmet offhanda overlay"
+#renderorder "shadow cloakb tails basesprite mount shirt legs armor cloakf quiver bonusweapon weapon offhandw hands ears hair helmet offhanda overlay"
 
 #load basesprite /data/items/kitsune/normal/humanbases.txt
 #load shadow /data/items/kitsune/normal/shadow.txt
 #load hands /data/items/kitsune/normal/humanhands.txt
 #load tails /data/items/kitsune/normal/tails.txt
+#load ears /data/items/kitsune/normal/ears.txt
 #load legs /data/items/oriental_female/normal/legs.txt
 
 
@@ -30,6 +31,7 @@
 #load bonusweapon /data/items/kitsune/normal/humanbonusranged.txt
 #generateitem 1 tails
 #generateitem 1 hair
+#generateitem 1 ears
 #endpose
 
 -------- 2h
@@ -37,13 +39,14 @@
 #newpose
 #role "infantry"
 
-#renderorder "shadow cloakb tails basesprite mount shirt legs armor cloakf quiver spaulder bonusweapon weapon offhandw hands hair helmet offhanda overlay"
+#renderorder "shadow cloakb tails basesprite mount shirt legs armor cloakf quiver spaulder bonusweapon weapon offhandw hands ears hair helmet offhanda overlay"
 
 #load basesprite /data/items/kitsune/2h/humanbases.txt
 #load shadow /data/items/kitsune/normal/shadow.txt
 #load hands /data/items/kitsune/2h/humanhands.txt
 #load tails /data/items/kitsune/normal/tails.txt
 #load legs /data/items/oriental_female/normal/legs.txt
+#load ears /data/items/kitsune/normal/ears.txt
 
 #load armor /data/items/oriental_female/2h/armor.txt
 #load spaulder /data/items/oriental_female/2h/spaulder.txt
@@ -58,19 +61,21 @@
 
 #generateitem 1 tails
 #generateitem 1 hair
+#generateitem 1 ears
 #endpose
 
 -------- ranged
 
 #newpose
 #role "ranged"
-#renderorder "shadow cloakb tails basesprite mount shirt legs armor quiver cloakf spaulder bonusweapon weapon offhandw hands hair helmet offhanda overlay"
+#renderorder "shadow cloakb tails basesprite mount shirt legs armor quiver cloakf spaulder bonusweapon weapon offhandw hands ears hair helmet offhanda overlay"
 
 #load basesprite /data/items/kitsune/2h/humanbases.txt
 #load shadow /data/items/kitsune/normal/shadow.txt
 #load hands /data/items/kitsune/2h/humanhands.txt
 #load tails /data/items/kitsune/normal/tails.txt
 #load legs /data/items/oriental_female/normal/legs.txt
+#load ears /data/items/kitsune/normal/ears.txt
 
 #load armor /data/items/oriental_female/2h/armor.txt
 #load spaulder /data/items/oriental_female/2h/spaulder.txt
@@ -87,5 +92,6 @@
 #generateitem 1 bonusweapon
 #generateitem 1 tails
 #generateitem 1 hair
+#generateitem 1 ears
 #endpose
 

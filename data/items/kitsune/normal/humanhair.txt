@@ -1,8 +1,3 @@
-#newitem
-#id 1
-#gameid -1
-#sprite /graphics/helmet/standard/longblondehair.png
-#enditem
 
 #newitem
 #id 2
@@ -36,12 +31,6 @@
 #armor
 #enditem
 
-#newitem
-#id "long swept-back blonde"
-#gameid -1
-#sprite /graphics/amazon/helmet/hair/longblondehair.png
-#armor
-#enditem
 
 #newitem
 #id "long swept-back brown"
@@ -71,19 +60,6 @@
 #armor
 #enditem
 
-#newitem
-#id "long draped white"
-#gameid -1
-#sprite /graphics/amazon/helmet/hair/long_draped_white.png
-#armor
-#enditem
-
-#newitem
-#id "long draped blonde"
-#gameid -1
-#sprite /graphics/amazon/helmet/hair/long_draped_blonde.png
-#armor
-#enditem
 
 #newitem
 #id "long draped auburn"
@@ -99,24 +75,11 @@
 #armor
 #enditem
 
-#newitem
-#id "long plain blonde"
-#gameid -1
-#sprite /graphics/amazon/helmet/hair/long_plain_blonde.png
-#armor
-#enditem
 
 #newitem
 #id "long plain brown"
 #gameid -1
 #sprite /graphics/amazon/helmet/hair/long_plain_brown.png
-#armor
-#enditem
-
-#newitem
-#id "long plain white"
-#gameid -1
-#sprite /graphics/amazon/helmet/hair/long_plain_white.png
 #armor
 #enditem
 
@@ -130,22 +93,8 @@
 #enditem
 
 #newitem
-#id "long_flowing_red"
-#gameid -1
-#sprite /graphics/amazon/helmet/hair/long_flowing_red.png
-#armor
-#enditem
-
-#newitem
 #id "long_flowing_brown"
 #gameid -1
 #sprite /graphics/amazon/helmet/hair/long_flowing_brown.png
-#armor
-#enditem
-
-#newitem
-#id "long_flowing_blonde"
-#gameid -1
-#sprite /graphics/amazon/helmet/hair/long_flowing_blonde.png
 #armor
 #enditem

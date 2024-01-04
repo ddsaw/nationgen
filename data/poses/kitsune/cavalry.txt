@@ -7,13 +7,14 @@
 
 #baseitemslot feet 0
 
-#renderorder "shadow cloakb tails mount basesprite shirt legs armor cloakf bonusweapon weapon offhandw hands hair helmet offhanda overlay"
+#renderorder "shadow cloakb tails mount basesprite shirt legs armor cloakf bonusweapon weapon offhandw hands ears hair helmet offhanda overlay"
 
 #load basesprite /data/items/kitsune/normal/humanbases.txt
 #load mount /data/items/human/human_mounted/humanmounts.txt 5 -15
 
-#load hands /data/items/human/normal/humanhands.txt
+#load hands /data/items/kitsune/normal/humanhands.txt
 #load tails /data/items/kitsune/normal/tails.txt
+#load ears /data/items/kitsune/normal/ears.txt
 
 #load cloakf /data/items/human/normal/humancloakf.txt
 #load cloakb /data/items/human/normal/humancloakb.txt
@@ -34,6 +35,7 @@
 #writeslot lanceslot
 #generateitem 1 tails
 #generateitem 1 hair
+#generateitem 1 ears
 #endpose
 
 
@@ -47,12 +49,12 @@
 
 #baseitemslot feet 0
 
-#renderorder "shadow cloakb tails basesprite mount shirt legs armor cloakf quiver bonusweapon weapon offhandw hands hair helmet offhanda overlay"
+#renderorder "shadow cloakb tails basesprite mount shirt legs armor cloakf quiver bonusweapon weapon offhandw hands ears hair helmet offhanda overlay"
 
 #load basesprite /data/items/kitsune/normal/humanbases.txt 
 #load mount /data/items/human/human_mounted/humanmounts_low.txt 5 -15
 
-#load hands /data/items/human/normal/humanhands.txt
+#load hands /data/items/kitsune/normal/humanhands.txt
 #load tails /data/items/kitsune/normal/tails.txt
 
 #load cloakf /data/items/human/normal/humancloakf.txt
@@ -77,6 +79,7 @@
 #writeslot lanceslot
 #generateitem 1 tails
 #generateitem 1 hair
+#generateitem 1 ears
 #endpose
 
 ----------- Charioteers
@@ -91,13 +94,13 @@
 
 #baseitemslot feet 0
 
-#renderorder "shadow cloakb tails basesprite mount shirt legs armor cloakf quiver bonusweapon weapon offhandw hands hair helmet offhanda overlay"
+#renderorder "shadow cloakb tails basesprite mount shirt legs armor cloakf quiver bonusweapon weapon offhandw hands ears hair helmet offhanda overlay"
 
 #load mount /data/items/oriental_female/mounted/bases_chariot.txt
 
 #load basesprite /data/items/kitsune/normal/humanbases.txt
 
-#load hands /data/items/human/normal/humanhands.txt
+#load hands /data/items/kitsune/normal/humanhands.txt
 #load tails /data/items/kitsune/normal/tails.txt
 #load legs /data/items/oriental/normal/legs.txt
 
@@ -117,4 +120,5 @@
 #load overlay /data/items/human/human_mounted/mountedoverlay.txt
 #generateitem 1 tails
 #generateitem 1 hair
+#generateitem 1 ears
 #endpose
