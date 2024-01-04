@@ -27,4 +27,5 @@
 #load offhand /data/items/human/caster/offhands.txt
 
 #generateitem 1 tails
+#generateitem 1 hair
 #endpose

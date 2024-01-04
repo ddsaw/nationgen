@@ -20,6 +20,7 @@
 #load offhand /data/items/oriental/normal/shields.txt
 #load offhand /data/items/oriental/normal/offhand.txt
 
+#load hair /data/items/human/normal/humanhair.txt
 #load helmet /data/items/oriental/normal/helmet.txt
 
 #load cloakf /data/items/human/normal/humancloakf.txt
@@ -28,6 +29,7 @@
 #load bonusweapon /data/items/kitsune/sacredstuff/sacredbonusweapons.txt
 #load bonusweapon /data/items/kitsune/normal/humanbonusranged.txt
 #generateitem 1 tails
+#generateitem 1 hair
 #endpose
 
 -------- 2h
@@ -48,12 +50,14 @@
 
 #load weapon /data/items/oriental/2h/weapon.txt
 
+#load hair /data/items/human/normal/humanhair.txt offsetx 0 offsety 1
 #load helmet /data/items/oriental/normal/helmet.txt
 
 #load cloakf /data/items/kitsune/normal/humancloakf.txt
 #load cloakb /data/items/kitsune/normal/humancloakb.txt
 
 #generateitem 1 tails
+#generateitem 1 hair
 #endpose
 
 -------- ranged
@@ -75,11 +79,13 @@
 #load quiver /data/items/oriental/archer/quiver.txt
 #load bonusweapon /data/items/oriental/archer/archerweapon.txt
 
+#load hair /data/items/human/normal/humanhair.txt offsetx 0 offsety 1
 #load helmet /data/items/oriental/normal/helmet.txt
 
 #load cloakf /data/items/kitsune/normal/humancloakf.txt
 #load cloakb /data/items/kitsune/normal/humancloakb.txt
 #generateitem 1 bonusweapon
 #generateitem 1 tails
+#generateitem 1 hair
 #endpose
 
