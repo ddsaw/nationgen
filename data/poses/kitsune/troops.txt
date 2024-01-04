@@ -7,9 +7,9 @@
 
 #renderorder "shadow cloakb tails basesprite mount shirt legs armor cloakf quiver bonusweapon weapon offhandw hands hair helmet offhanda overlay"
 
-#load basesprite /data/items/human_female/normal/humanbases.txt
-#load shadow /data/items/human_female/normal/shadow.txt
-#load hands /data/items/human_female/normal/humanhands.txt
+#load basesprite /data/items/kitsune/normal/humanbases.txt
+#load shadow /data/items/kitsune/normal/shadow.txt
+#load hands /data/items/kitsune/normal/humanhands.txt
 #load tails /data/items/kitsune/normal/tails.txt
 #load legs /data/items/oriental_female/normal/legs.txt
 
@@ -23,10 +23,10 @@
 #load helmet /data/items/oriental/normal/helmet.txt
 
 #load cloakf /data/items/human/normal/humancloakf.txt
-#load cloakb /data/items/human_female/normal/humancloakb.txt
+#load cloakb /data/items/kitsune/normal/humancloakb.txt
 
-#load bonusweapon /data/items/human_female/sacredstuff/sacredbonusweapons.txt
-#load bonusweapon /data/items/human_female/normal/humanbonusranged.txt
+#load bonusweapon /data/items/kitsune/sacredstuff/sacredbonusweapons.txt
+#load bonusweapon /data/items/kitsune/normal/humanbonusranged.txt
 #generateitem 1 tails
 #endpose
 
@@ -37,9 +37,9 @@
 
 #renderorder "shadow cloakb tails basesprite mount shirt legs armor cloakf quiver spaulder bonusweapon weapon offhandw hands hair helmet offhanda overlay"
 
-#load basesprite /data/items/human_female/2h/humanbases.txt
-#load shadow /data/items/human_female/normal/shadow.txt
-#load hands /data/items/human_female/2h/humanhands.txt
+#load basesprite /data/items/kitsune/2h/humanbases.txt
+#load shadow /data/items/kitsune/normal/shadow.txt
+#load hands /data/items/kitsune/2h/humanhands.txt
 #load tails /data/items/kitsune/normal/tails.txt
 #load legs /data/items/oriental_female/normal/legs.txt
 
@@ -50,8 +50,8 @@
 
 #load helmet /data/items/oriental/normal/helmet.txt
 
-#load cloakf /data/items/human_female/normal/humancloakf.txt
-#load cloakb /data/items/human_female/normal/humancloakb.txt
+#load cloakf /data/items/kitsune/normal/humancloakf.txt
+#load cloakb /data/items/kitsune/normal/humancloakb.txt
 
 #generateitem 1 tails
 #endpose
@@ -62,23 +62,23 @@
 #role "ranged"
 #renderorder "shadow cloakb tails basesprite mount shirt legs armor quiver cloakf spaulder bonusweapon weapon offhandw hands hair helmet offhanda overlay"
 
-#load basesprite /data/items/human_female/2h/humanbases.txt
-#load shadow /data/items/human_female/normal/shadow.txt
-#load hands /data/items/human_female/2h/humanhands.txt
+#load basesprite /data/items/kitsune/2h/humanbases.txt
+#load shadow /data/items/kitsune/normal/shadow.txt
+#load hands /data/items/kitsune/2h/humanhands.txt
 #load tails /data/items/kitsune/normal/tails.txt
 #load legs /data/items/oriental_female/normal/legs.txt
 
 #load armor /data/items/oriental_female/2h/armor.txt
 #load spaulder /data/items/oriental_female/2h/spaulder.txt
 
-#load weapon /data/items/human_female/archer/bows.txt 1 -2
+#load weapon /data/items/kitsune/archer/bows.txt 1 -2
 #load quiver /data/items/oriental/archer/quiver.txt
 #load bonusweapon /data/items/oriental/archer/archerweapon.txt
 
 #load helmet /data/items/oriental/normal/helmet.txt
 
-#load cloakf /data/items/human_female/normal/humancloakf.txt
-#load cloakb /data/items/human_female/normal/humancloakb.txt
+#load cloakf /data/items/kitsune/normal/humancloakf.txt
+#load cloakb /data/items/kitsune/normal/humancloakb.txt
 #generateitem 1 bonusweapon
 #generateitem 1 tails
 #endpose

@@ -1,6 +1,6 @@
 #newitem
 #name "human basesprite"
 #gameid -1
-#sprite /graphics/basehuman.png
+#sprite /graphics/kitsune/bases/basekitsune.png
 #slow_militia
 #enditem

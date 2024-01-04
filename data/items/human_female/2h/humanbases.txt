@@ -1,6 +1,6 @@
 #newitem
 #name "human basesprite 2h"
 #gameid -1
-#sprite /graphics/basehuman_2h.png
+#sprite /graphics/basehuman_female_2h.png
 #slow_militia
 #enditem

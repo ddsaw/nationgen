@@ -9,7 +9,7 @@
 #renderorder "shadow cloakb tails basesprite mount shirt legs armor cloakf quiver bonusweapon weapon offhandw hands hair helmet offhanda overlay"
 
 
-#load basesprite /data/items/human_female/normal/humanbases.txt
+#load basesprite /data/items/kitsune/normal/humanbases.txt
 #load shadow /data/items/human/normal/shadow.txt
 #load hands /data/items/human/normal/humanhands.txt
 #load tails /data/items/kitsune/normal/tails.txt
@@ -17,9 +17,9 @@
 #load cloakf /data/items/human/normal/humancloakf.txt
 #load cloakb /data/items/human/normal/humancloakb.txt
 
-#load hair /data/items/human_female/caster/hair.txt
-#load armor /data/items/human_female/caster/robes.txt
-#load armor /data/items/human_female/caster/humanspecific_robes.txt
+#load hair /data/items/kitsune/caster/hair.txt
+#load armor /data/items/kitsune/caster/robes.txt
+#load armor /data/items/kitsune/caster/humanspecific_robes.txt
 #load weapon /data/items/human/caster/weapon.txt
 #load helmet /data/items/human/caster/helmet.txt
 #load helmet /data/items/oriental/caster/helmet.txt
