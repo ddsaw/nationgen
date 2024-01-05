@@ -6,7 +6,7 @@
 #armor
 #command "#female"
 #command "#secondshape kitsune"
-#command "#maxage 999"
+#command "#maxage 100"
 #command "#att 11"
 #command "#def 12"
 #command "#mor 9"
