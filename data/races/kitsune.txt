@@ -1,9 +1,8 @@
 #newrace
 #name "Kitsune"
 #visiblename "Kitsune"
-#basechance 0.3
+#basechance 0.2
 
-#all_troops_sacred
 #all_troops_elite
 
 #extrapdmulti 4
@@ -32,6 +31,9 @@
 #specialcommanderfilters specialcommanderfilters_extended
 
 #chanceinc "primaryrace Tengu *4"
+#chanceinc "primaryrace 'Oriental human' *4"
+#chanceinc hastheme "oriental" *2
+
 
 #description "Kitsune are Youkai that take the shape of comely women with vulpine features. When in grave danger, Kitsune are known to turn into their true form and flee."
 

@@ -4,6 +4,8 @@
 
 #chanceinc era 1 *0.5
 #chanceinc era 3 *3
+#all_troops_sacred
+#all_troops_elite
 
 -- 40% H1/48% H2/12% H3 max priest level
 #priest_H1_upgradechance 0.6

@@ -4,19 +4,3 @@
 #sprite /graphics/kitsune/normal_orange.png
 #define "#descr 'All Kitsune have a fluffy tail.'"
 #enditem
-
-
-#newitem
-#id orange_twotail
-#gameid -1
-#sprite /graphics/kitsune/twotails_orange.png
-#define "#hp +4"
-#define "#mr +1"
-#define "#str +1"
-#define "#gcost +12"
-#subraceprefix "Two-tails"
-#sacred
-#theme "elite"
-#tier 3
-#define "#descr 'Some Kitsune have two fluffy tails, making them fluffier and thus inherently more powerful.'"
-#enditem

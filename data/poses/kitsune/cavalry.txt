@@ -2,8 +2,7 @@
 
 #newpose
 #role "mounted"
-#sacred
-#basechance 0.25
+#basechance 0.1
 
 #baseitemslot feet 0
 
@@ -43,7 +42,7 @@
 ------- Low mounted
 
 #newpose
-#basechance 0.125
+#basechance 0.05
 #role "mounted"
 #sacred
 
@@ -88,7 +87,7 @@
 #race 0
 #role "chariot"
 #sacred
-#basechance 0.125
+#basechance 0.05
 
 #good_leader
 

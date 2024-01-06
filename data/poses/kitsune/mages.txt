@@ -5,6 +5,7 @@
 #race 0
 #role "mage"
 #role "priest"
+#tier 1
 
 #renderorder "shadow cloakb tails basesprite mount shirt legs armor cloakf quiver bonusweapon weapon offhandw hands ears hair helmet offhanda overlay"
 
@@ -12,7 +13,71 @@
 #load basesprite /data/items/kitsune/normal/humanbases.txt
 #load shadow /data/items/human/normal/shadow.txt
 #load hands /data/items/kitsune/normal/humanhands.txt
-#load tails /data/items/kitsune/normal/tails.txt
+#load tails /data/items/kitsune/caster/tails_tier1.txt
+#load ears /data/items/kitsune/normal/ears.txt
+
+#load cloakf /data/items/human/normal/humancloakf.txt
+#load cloakb /data/items/human/normal/humancloakb.txt
+
+#load hair /data/items/kitsune/caster/hair.txt
+#load armor /data/items/kitsune/caster/robes.txt
+#load armor /data/items/kitsune/caster/humanspecific_robes.txt
+#load weapon /data/items/human/caster/weapon.txt
+#load helmet /data/items/human/caster/helmet.txt
+#load helmet /data/items/oriental/caster/helmet.txt
+#load helmet /data/items/human/caster/humanspecific_helmet.txt
+#load offhand /data/items/human/caster/offhands.txt
+
+#generateitem 1 tails
+#generateitem 1 hair
+#generateitem 1 ears
+#endpose
+
+#newpose
+#race 0
+#role "mage"
+#role "priest"
+#tier 2
+
+#renderorder "shadow cloakb tails basesprite mount shirt legs armor cloakf quiver bonusweapon weapon offhandw hands ears hair helmet offhanda overlay"
+
+
+#load basesprite /data/items/kitsune/normal/humanbases.txt
+#load shadow /data/items/human/normal/shadow.txt
+#load hands /data/items/kitsune/normal/humanhands.txt
+#load tails /data/items/kitsune/caster/tails_tier2.txt
+#load ears /data/items/kitsune/normal/ears.txt
+
+#load cloakf /data/items/human/normal/humancloakf.txt
+#load cloakb /data/items/human/normal/humancloakb.txt
+
+#load hair /data/items/kitsune/caster/hair.txt
+#load armor /data/items/kitsune/caster/robes.txt
+#load armor /data/items/kitsune/caster/humanspecific_robes.txt
+#load weapon /data/items/human/caster/weapon.txt
+#load helmet /data/items/human/caster/helmet.txt
+#load helmet /data/items/oriental/caster/helmet.txt
+#load helmet /data/items/human/caster/humanspecific_helmet.txt
+#load offhand /data/items/human/caster/offhands.txt
+
+#generateitem 1 tails
+#generateitem 1 hair
+#generateitem 1 ears
+#endpose
+
+#newpose
+#race 0
+#role "mage"
+#role "priest"
+#tier 3
+
+#renderorder "shadow cloakb tails basesprite mount shirt legs armor cloakf quiver bonusweapon weapon offhandw hands ears hair helmet offhanda overlay"
+
+
+#load basesprite /data/items/kitsune/normal/humanbases.txt
+#load shadow /data/items/human/normal/shadow.txt
+#load hands /data/items/kitsune/normal/humanhands.txt
+#load tails /data/items/kitsune/caster/tails_tier3.txt
 #load ears /data/items/kitsune/normal/ears.txt
 
 #load cloakf /data/items/human/normal/humancloakf.txt

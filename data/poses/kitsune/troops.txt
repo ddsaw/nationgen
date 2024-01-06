@@ -34,6 +34,40 @@
 #generateitem 1 ears
 #endpose
 
+-------- Normal Sacred
+
+#newpose
+#role "sacred infantry"
+
+#renderorder "shadow cloakb tails basesprite mount shirt legs armor cloakf quiver bonusweapon weapon offhandw hands ears hair helmet offhanda overlay"
+
+#load basesprite /data/items/kitsune/normal/humanbases.txt
+#load shadow /data/items/kitsune/normal/shadow.txt
+#load hands /data/items/kitsune/normal/humanhands.txt
+#load tails /data/items/kitsune/normal/tails_sacred.txt
+#load ears /data/items/kitsune/normal/ears.txt
+#load legs /data/items/oriental_female/normal/legs.txt
+
+
+#load armor /data/items/oriental_female/normal/armor.txt
+
+#load weapon /data/items/oriental/normal/weapon.txt
+#load offhand /data/items/oriental/normal/shields.txt
+#load offhand /data/items/oriental/normal/offhand.txt
+
+#load hair /data/items/kitsune/normal/humanhair.txt
+#load helmet /data/items/oriental/normal/helmet.txt
+
+#load cloakf /data/items/human/normal/humancloakf.txt
+#load cloakb /data/items/kitsune/normal/humancloakb.txt
+
+#load bonusweapon /data/items/kitsune/sacredstuff/sacredbonusweapons.txt
+#load bonusweapon /data/items/kitsune/normal/humanbonusranged.txt
+#generateitem 1 tails
+#generateitem 1 hair
+#generateitem 1 ears
+#endpose
+
 -------- 2h
 
 #newpose
@@ -45,6 +79,36 @@
 #load shadow /data/items/kitsune/normal/shadow.txt
 #load hands /data/items/kitsune/2h/humanhands.txt
 #load tails /data/items/kitsune/normal/tails.txt
+#load legs /data/items/oriental_female/normal/legs.txt
+#load ears /data/items/kitsune/normal/ears.txt
+
+#load armor /data/items/oriental_female/2h/armor.txt
+#load spaulder /data/items/oriental_female/2h/spaulder.txt
+
+#load weapon /data/items/oriental/2h/weapon.txt
+
+#load hair /data/items/kitsune/normal/humanhair.txt offsetx 0 offsety 1
+#load helmet /data/items/oriental/normal/helmet.txt
+
+#load cloakf /data/items/kitsune/normal/humancloakf.txt
+#load cloakb /data/items/kitsune/normal/humancloakb.txt
+
+#generateitem 1 tails
+#generateitem 1 hair
+#generateitem 1 ears
+#endpose
+
+-------- 2h
+
+#newpose
+#role "sacred infantry"
+
+#renderorder "shadow cloakb tails basesprite mount shirt legs armor cloakf quiver spaulder bonusweapon weapon offhandw hands ears hair helmet offhanda overlay"
+
+#load basesprite /data/items/kitsune/2h/humanbases.txt
+#load shadow /data/items/kitsune/normal/shadow.txt
+#load hands /data/items/kitsune/2h/humanhands.txt
+#load tails /data/items/kitsune/normal/tails_sacred.txt
 #load legs /data/items/oriental_female/normal/legs.txt
 #load ears /data/items/kitsune/normal/ears.txt
 
@@ -95,3 +159,33 @@
 #generateitem 1 ears
 #endpose
 
+-------- ranged sacred
+
+#newpose
+#role "sacred ranged"
+#renderorder "shadow cloakb tails basesprite mount shirt legs armor quiver cloakf spaulder bonusweapon weapon offhandw hands ears hair helmet offhanda overlay"
+
+#load basesprite /data/items/kitsune/2h/humanbases.txt
+#load shadow /data/items/kitsune/normal/shadow.txt
+#load hands /data/items/kitsune/2h/humanhands.txt
+#load tails /data/items/kitsune/normal/tails_sacred.txt
+#load legs /data/items/oriental_female/normal/legs.txt
+#load ears /data/items/kitsune/normal/ears.txt
+
+#load armor /data/items/oriental_female/2h/armor.txt
+#load spaulder /data/items/oriental_female/2h/spaulder.txt
+
+#load weapon /data/items/kitsune/archer/bows.txt 1 -2
+#load quiver /data/items/oriental/archer/quiver.txt
+#load bonusweapon /data/items/oriental/archer/archerweapon.txt
+
+#load hair /data/items/kitsune/normal/humanhair.txt offsetx 0 offsety 1
+#load helmet /data/items/oriental/normal/helmet.txt
+
+#load cloakf /data/items/kitsune/normal/humancloakf.txt
+#load cloakb /data/items/kitsune/normal/humancloakb.txt
+#generateitem 1 bonusweapon
+#generateitem 1 tails
+#generateitem 1 hair
+#generateitem 1 ears
+#endpose
