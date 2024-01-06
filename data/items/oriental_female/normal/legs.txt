@@ -4,30 +4,30 @@
 #newitem
 #id specialpants
 #gameid -1
-#sprite /graphics/tengu/legs/leatherpants.png
+#sprite /graphics/kitsune/legs/leatherpants.png
 #basechance 0
 #enditem
 
 #newitem
 #id jomonpants
 #gameid -1
-#sprite /graphics/tengu/legs/pants_jomon.png
-#recolormask /graphics/tengu/legs/pants_jomon_recolormask.png
+#sprite /graphics/kitsune/legs/pants_jomon.png
+#recolormask /graphics/kitsune/legs/pants_jomon_recolormask.png
 #basechance 0
 #enditem
 
 #newitem
 #id pants
 #gameid -1
-#sprite /graphics/tengu/legs/pants.png
-#recolormask /graphics/tengu/legs/pants_recolormask.png
+#sprite /graphics/kitsune/legs/pants.png
+#recolormask /graphics/kitsune/legs/pants_recolormask.png
 #enditem
 
 #newitem
 #id leatherpants
 #gameid -1
-#sprite /graphics/tengu/legs/pants.png
-#recolormask /graphics/tengu/legs/pants_recolormask.png
+#sprite /graphics/kitsune/legs/pants.png
+#recolormask /graphics/kitsune/legs/pants_recolormask.png
 #theme "primitive"
 #basechance 0.25
 #enditem
@@ -35,23 +35,23 @@
 #newitem
 #id ringpants
 #gameid -1
-#sprite /graphics/tengu/legs/pants.png
-#recolormask /graphics/tengu/legs/pants_recolormask.png
+#sprite /graphics/kitsune/legs/pants.png
+#recolormask /graphics/kitsune/legs/pants_recolormask.png
 #basechance 0
 #enditem
 
 #newitem
 #id mailpants
 #gameid -1
-#sprite /graphics/tengu/legs/pants.png
-#recolormask /graphics/tengu/legs/pants_recolormask.png
+#sprite /graphics/kitsune/legs/pants.png
+#recolormask /graphics/kitsune/legs/pants_recolormask.png
 #basechance 0
 #enditem
 
 #newitem
 #id platepants
 #gameid -1
-#sprite /graphics/tengu/legs/pants.png
-#recolormask /graphics/tengu/legs/pants_recolormask.png
+#sprite /graphics/kitsune/legs/pants.png
+#recolormask /graphics/kitsune/legs/pants_recolormask.png
 #basechance 0
 #enditem

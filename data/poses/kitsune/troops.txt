@@ -22,7 +22,7 @@
 #load offhand /data/items/oriental/normal/offhand.txt
 
 #load hair /data/items/kitsune/normal/humanhair.txt
-#load helmet /data/items/oriental/normal/helmet.txt
+#load helmet /data/items/oriental_female/normal/helmet.txt
 
 #load cloakf /data/items/human/normal/humancloakf.txt
 #load cloakb /data/items/kitsune/normal/humancloakb.txt
@@ -56,7 +56,7 @@
 #load offhand /data/items/oriental/normal/offhand.txt
 
 #load hair /data/items/kitsune/normal/humanhair.txt
-#load helmet /data/items/oriental/normal/helmet.txt
+#load helmet /data/items/oriental_female/normal/helmet.txt
 
 #load cloakf /data/items/human/normal/humancloakf.txt
 #load cloakb /data/items/kitsune/normal/humancloakb.txt
@@ -88,7 +88,7 @@
 #load weapon /data/items/oriental/2h/weapon.txt
 
 #load hair /data/items/kitsune/normal/humanhair.txt offsetx 0 offsety 1
-#load helmet /data/items/oriental/normal/helmet.txt
+#load helmet /data/items/oriental_female/normal/helmet.txt
 
 #load cloakf /data/items/kitsune/normal/humancloakf.txt
 #load cloakb /data/items/kitsune/normal/humancloakb.txt
@@ -118,7 +118,7 @@
 #load weapon /data/items/oriental/2h/weapon.txt
 
 #load hair /data/items/kitsune/normal/humanhair.txt offsetx 0 offsety 1
-#load helmet /data/items/oriental/normal/helmet.txt
+#load helmet /data/items/oriental_female/normal/helmet.txt
 
 #load cloakf /data/items/kitsune/normal/humancloakf.txt
 #load cloakb /data/items/kitsune/normal/humancloakb.txt
@@ -149,7 +149,7 @@
 #load bonusweapon /data/items/oriental/archer/archerweapon.txt
 
 #load hair /data/items/kitsune/normal/humanhair.txt offsetx 0 offsety 1
-#load helmet /data/items/oriental/normal/helmet.txt
+#load helmet /data/items/oriental_female/normal/helmet.txt
 
 #load cloakf /data/items/kitsune/normal/humancloakf.txt
 #load cloakb /data/items/kitsune/normal/humancloakb.txt
@@ -180,7 +180,7 @@
 #load bonusweapon /data/items/oriental/archer/archerweapon.txt
 
 #load hair /data/items/kitsune/normal/humanhair.txt offsetx 0 offsety 1
-#load helmet /data/items/oriental/normal/helmet.txt
+#load helmet /data/items/oriental_female/normal/helmet.txt
 
 #load cloakf /data/items/kitsune/normal/humancloakf.txt
 #load cloakb /data/items/kitsune/normal/humancloakb.txt

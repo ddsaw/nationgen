@@ -20,7 +20,7 @@
 #load shirt /data/items/kitsune/normal/humanshirt.txt
 
 #load armor /data/items/oriental_female/mounted/armor.txt
-#load helmet /data/items/oriental/normal/helmet.txt
+#load helmet /data/items/oriental_female/normal/helmet.txt
 #load hair /data/items/kitsune/normal/humanhair.txt
 
 #load weapon /data/items/oriental/normal/weapon.txt
@@ -61,7 +61,7 @@
 #load shirt /data/items/kitsune/normal/humanshirt.txt
 
 #load armor /data/items/oriental_female/mounted/armor.txt
-#load helmet /data/items/oriental/normal/helmet.txt
+#load helmet /data/items/oriental_female/normal/helmet.txt
 #load hair /data/items/kitsune/normal/humanhair.txt
 
 #load weapon /data/items/oriental/normal/weapon.txt
@@ -107,7 +107,7 @@
 
 #load weapon /data/items/oriental/normal/weapon.txt
 
-#load helmet /data/items/oriental/normal/helmet.txt
+#load helmet /data/items/oriental_female/normal/helmet.txt
 #load hair /data/items/kitsune/normal/humanhair.txt
 
 #load cloakf /data/items/human/normal/humancloakf.txt

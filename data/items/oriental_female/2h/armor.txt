@@ -4,7 +4,7 @@
 #newitem
 #name "leather cuirass 1"
 #gameid 5
-#sprite /graphics/tengu/armor/2h/shirt.png
+#sprite /graphics/kitsune/armor/2h/shirt.png
 #needs legs specialpants
 #armor
 #enditem
@@ -15,7 +15,7 @@
 #newitem
 #name "samurai armor"
 #gameid 129
-#sprite /graphics/tengu/armor/2h/samuraiarmor.png
+#sprite /graphics/kitsune/armor/2h/samuraiarmor.png
 #needs spaulder normal
 #tag "eliteversion 'samurai armor elite'"
 #tag "eliteversion 'samurai armor elite2'"
@@ -26,8 +26,8 @@
 #newitem
 #name "samurai armor elite"
 #gameid 129
-#sprite /graphics/tengu/armor/2h/samuraiarmor_elite.png
-#recolormask /graphics/tengu/armor/2h/samuraiarmor_elite_recolormask.png
+#sprite /graphics/kitsune/armor/2h/samuraiarmor_elite.png
+#recolormask /graphics/kitsune/armor/2h/samuraiarmor_elite_recolormask.png
 #needs spaulder normal
 #theme "elite"
 #needs legs jomonpants
@@ -37,8 +37,8 @@
 #newitem
 #name "samurai armor elite2"
 #gameid 129
-#sprite /graphics/tengu/armor/2h/samuraiarmor_elite2.png
-#recolormask /graphics/tengu/armor/2h/samuraiarmor_elite2_recolormask.png
+#sprite /graphics/kitsune/armor/2h/samuraiarmor_elite2.png
+#recolormask /graphics/kitsune/armor/2h/samuraiarmor_elite2_recolormask.png
 #needs spaulder normal
 #theme "elite"
 #needs legs jomonpants
@@ -48,7 +48,7 @@
 #newitem
 #name "heavy samurai armor"
 #gameid 130
-#sprite /graphics/tengu/armor/2h/heavysamuraiarmor.png
+#sprite /graphics/kitsune/armor/2h/heavysamuraiarmor.png
 #needs spaulder heavy
 #tag "eliteversion 'heavy samurai armor elite'"
 #tag "eliteversion 'heavy samurai armor elite2'"
@@ -59,8 +59,8 @@
 #newitem
 #name "heavy samurai armor elite"
 #gameid 130
-#sprite /graphics/tengu/armor/2h/heavysamuraiarmor_elite.png
-#recolormask /graphics/tengu/armor/2h/samuraiarmor_elite_recolormask.png
+#sprite /graphics/kitsune/armor/2h/heavysamuraiarmor_elite.png
+#recolormask /graphics/kitsune/armor/2h/samuraiarmor_elite_recolormask.png
 #needs spaulder heavy
 #theme "elite"
 #needs legs jomonpants
@@ -70,8 +70,8 @@
 #newitem
 #name "heavy samurai armor elite2"
 #gameid 130
-#sprite /graphics/tengu/armor/2h/heavysamuraiarmor_elite2.png
-#recolormask /graphics/tengu/armor/2h/heavysamuraiarmor_elite2_recolormask.png
+#sprite /graphics/kitsune/armor/2h/heavysamuraiarmor_elite2.png
+#recolormask /graphics/kitsune/armor/2h/heavysamuraiarmor_elite2_recolormask.png
 #needs spaulder heavy
 #theme "elite"
 #needs legs jomonpants
@@ -83,16 +83,16 @@
 #newitem
 #name "leather hauberk"
 #gameid 10
-#sprite /graphics/tengu/armor/2h/leather.png
-#recolormask /graphics/tengu/armor/2h/tc_recolormask.png
+#sprite /graphics/kitsune/armor/2h/leather.png
+#recolormask /graphics/kitsune/armor/2h/tc_recolormask.png
 #armor
 #enditem
 
 #newitem
 #name "full leather"
 #gameid 15
-#sprite /graphics/tengu/armor/2h/leather.png
-#recolormask /graphics/tengu/armor/2h/tc_recolormask.png
+#sprite /graphics/kitsune/armor/2h/leather.png
+#recolormask /graphics/kitsune/armor/2h/tc_recolormask.png
 #armor
 #enditem
 
@@ -100,16 +100,16 @@
 #newitem
 #name "scale cuirass"
 #gameid 7
-#sprite /graphics/tengu/armor/2h/scale.png
-#recolormask /graphics/tengu/armor/2h/tc_recolormask.png
+#sprite /graphics/kitsune/armor/2h/scale.png
+#recolormask /graphics/kitsune/armor/2h/tc_recolormask.png
 #armor
 #enditem
 
 #newitem
 #name "ashigaru armor"
 #gameid 128
-#sprite /graphics/tengu/armor/2h/ashigaruarmor.png
-#recolormask /graphics/tengu/armor/2h/ashigaruarmor_recolormask.png
+#sprite /graphics/kitsune/armor/2h/ashigaruarmor.png
+#recolormask /graphics/kitsune/armor/2h/ashigaruarmor_recolormask.png
 #needs legs jomonpants
 #armor
 #enditem
@@ -117,16 +117,16 @@
 #newitem
 #name "scale hauberk"
 #gameid 12
-#sprite /graphics/tengu/armor/2h/scale.png
-#recolormask /graphics/tengu/armor/2h/tc_recolormask.png
+#sprite /graphics/kitsune/armor/2h/scale.png
+#recolormask /graphics/kitsune/armor/2h/tc_recolormask.png
 #armor
 #enditem
 
 #newitem
 #name "full scale"
 #gameid 17
-#sprite /graphics/tengu/armor/2h/fullscale.png
-#recolormask /graphics/tengu/armor/2h/tc_recolormask.png
+#sprite /graphics/kitsune/armor/2h/fullscale.png
+#recolormask /graphics/kitsune/armor/2h/tc_recolormask.png
 #armor
 #enditem
 
@@ -137,7 +137,7 @@
 #gameid 14
 #basechance 0
 #chanceinc racetheme advanced 0.5
-#sprite /graphics/tengu/armor/2h/nanban_hauberk.png
+#sprite /graphics/kitsune/armor/2h/nanban_hauberk.png
 #tag "eliteversion 'nanban hauberk elite'"
 #needs legs jomonpants
 #needs spaulder normal
@@ -149,8 +149,8 @@
 #gameid 14
 #basechance 0
 #chanceinc racetheme advanced 0.5
-#sprite /graphics/tengu/armor/2h/nanban_hauberk_elite.png
-#recolormask /graphics/tengu/armor/2h/samuraiarmor_elite_recolormask.png
+#sprite /graphics/kitsune/armor/2h/nanban_hauberk_elite.png
+#recolormask /graphics/kitsune/armor/2h/samuraiarmor_elite_recolormask.png
 #theme "elite"
 #needs legs jomonpants
 #needs spaulder normal
@@ -162,7 +162,7 @@
 #gameid 19
 #basechance 0
 #chanceinc racetheme advanced 0.25
-#sprite /graphics/tengu/armor/2h/nanban_full.png
+#sprite /graphics/kitsune/armor/2h/nanban_full.png
 #tag "eliteversion 'nanban full elite'"
 #needs legs jomonpants
 #needs spaulder heavy
@@ -174,8 +174,8 @@
 #gameid 19
 #basechance 0
 #chanceinc racetheme advanced 0.25
-#sprite /graphics/tengu/armor/2h/nanban_full_elite.png
-#recolormask /graphics/tengu/armor/2h/samuraiarmor_elite_recolormask.png
+#sprite /graphics/kitsune/armor/2h/nanban_full_elite.png
+#recolormask /graphics/kitsune/armor/2h/samuraiarmor_elite_recolormask.png
 #theme "elite"
 #needs legs jomonpants
 #needs spaulder heavy

@@ -12,9 +12,10 @@
 #sprite /graphics/kitsune/twotails_orange.png
 #basechance 0.5
 #define "#hp +4"
-#define "#mr +1"
+#define "#mr +2"
 #define "#str +1"
 #define "#gcost +12"
+#define "#maxage +100"
 #subraceprefix "Two-tails"
 #define "#descr 'Some Kitsune have two fluffy tails, making them fluffier and thus inherently more powerful.'"
 #enditem

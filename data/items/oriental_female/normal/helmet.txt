@@ -47,7 +47,7 @@
 #newitem
 #id leathercap
 #gameid 120
-#sprite /graphics/tengu/helmet/reinforcedcap.png
+#sprite /graphics/kitsune/helmet/reinforcedcap.png
 #tag "eliteversion ironcap"
 #theme "oriental"
 #armor
@@ -56,7 +56,7 @@
 #newitem
 #id reinforcedcap
 #gameid 119
-#sprite /graphics/tengu/helmet/reinforcedcap.png
+#sprite /graphics/kitsune/helmet/reinforcedcap.png
 #tag "eliteversion halfhelm"
 #theme "oriental"
 #armor
@@ -65,7 +65,7 @@
 #newitem
 #id halfhelmet
 #gameid 118
-#sprite /graphics/tengu/helmet/tienchihelmet.png
+#sprite /graphics/kitsune/helmet/tienchihelmet.png
 #tag "eliteversion halfhelm_elite"
 #theme "oriental"
 #armor
@@ -74,7 +74,7 @@
 #newitem
 #id ironcap
 #gameid 20
-#sprite /graphics/tengu/helmet/tienchihelmet.png
+#sprite /graphics/kitsune/helmet/tienchihelmet.png
 #tag "eliteversion ironcap_elite"
 #theme "oriental"
 #armor
@@ -84,8 +84,8 @@
 #id halfhelmet_elite
 #basechance 0
 #gameid 118
-#sprite /graphics/tengu/helmet/tienchihelmet_elite.png
-#recolormask /graphics/tengu/helmet/tienchihelmet_elite_recolormask.png
+#sprite /graphics/kitsune/helmet/tienchihelmet_elite.png
+#recolormask /graphics/kitsune/helmet/tienchihelmet_elite_recolormask.png
 #theme "oriental"
 #armor
 #enditem
@@ -94,8 +94,8 @@
 #id ironcap_elite
 #basechance 0
 #gameid 20
-#sprite /graphics/tengu/helmet/tienchihelmet_fancy.png
-#recolormask /graphics/tengu/helmet/tienchihelmet_fancy_recolormask.png
+#sprite /graphics/kitsune/helmet/tienchihelmet_fancy.png
+#recolormask /graphics/kitsune/helmet/tienchihelmet_fancy_recolormask.png
 #tag "eliteversion halfhelm_elite"
 #tag "eliteversion ironcap_elite"
 #theme "oriental"
