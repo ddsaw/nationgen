@@ -16,25 +16,6 @@
 #theme "bronze"
 #enditem
 
-#newitem
-#id hammer
-#gameid 13
-#sprite /graphics/weapon/standard/hammer.png
-#tag "tier 3"
-#tag "tier 2"
-#tag "tier 1"
-#theme "iron"
-#enditem
-
-#newitem
-#id hammer_bronze
-#gameid bronzehammer
-#sprite /graphics/weapon/bronze/hammer.png
-#tag "tier 3"
-#tag "tier 2"
-#tag "tier 1"
-#theme "bronze"
-#enditem
 
 #newitem
 #id shortsword
@@ -67,34 +48,6 @@
 #theme "iron"
 #enditem
 
-#newitem
-#id kopesh
-#gameid 513
-#sprite /graphics/weapon/bronze/kopesh.png
-#tag "tier 3"
-#tag "tier 2"
-#theme "bronze"
-#enditem
-
-#newitem
-#id trident
-#gameid 3
-#sprite /graphics/weapon/mage/trident.png
-#tag "tier 3"
-#tag "tier 2"
-#theme "iron"
-#theme "water"
-#enditem
-
-#newitem
-#id trident_bronze
-#gameid 641
-#sprite /graphics/weapon/mage/trident_bronze.png
-#tag "tier 3"
-#tag "tier 2"
-#theme "bronze"
-#theme "water"
-#enditem
 
 #newitem
 #id quarterstaff

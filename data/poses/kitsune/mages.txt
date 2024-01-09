@@ -21,11 +21,9 @@
 
 #load hair /data/items/kitsune/caster/hair.txt
 #load armor /data/items/kitsune/caster/robes.txt
-#load armor /data/items/kitsune/caster/humanspecific_robes.txt
-#load weapon /data/items/human/caster/weapon.txt
-#load helmet /data/items/human/caster/helmet.txt
+#load weapon /data/items/kitsune/caster/weapon.txt
+#load helmet /data/items/kitsune/caster/helmet.txt
 #load helmet /data/items/oriental/caster/helmet.txt
-#load helmet /data/items/human/caster/humanspecific_helmet.txt
 #load offhand /data/items/human/caster/offhands.txt
 
 #generateitem 1 tails
@@ -53,11 +51,9 @@
 
 #load hair /data/items/kitsune/caster/hair.txt
 #load armor /data/items/kitsune/caster/robes.txt
-#load armor /data/items/kitsune/caster/humanspecific_robes.txt
-#load weapon /data/items/human/caster/weapon.txt
-#load helmet /data/items/human/caster/helmet.txt
+#load weapon /data/items/kitsune/caster/weapon.txt
+#load helmet /data/items/kitsune/caster/helmet.txt
 #load helmet /data/items/oriental/caster/helmet.txt
-#load helmet /data/items/human/caster/humanspecific_helmet.txt
 #load offhand /data/items/human/caster/offhands.txt
 
 #generateitem 1 tails
@@ -85,11 +81,9 @@
 
 #load hair /data/items/kitsune/caster/hair.txt
 #load armor /data/items/kitsune/caster/robes.txt
-#load armor /data/items/kitsune/caster/humanspecific_robes.txt
-#load weapon /data/items/human/caster/weapon.txt
-#load helmet /data/items/human/caster/helmet.txt
+#load weapon /data/items/kitsune/caster/weapon.txt
+#load helmet /data/items/kitsune/caster/helmet.txt
 #load helmet /data/items/oriental/caster/helmet.txt
-#load helmet /data/items/human/caster/humanspecific_helmet.txt
 #load offhand /data/items/human/caster/offhands.txt
 
 #generateitem 1 tails

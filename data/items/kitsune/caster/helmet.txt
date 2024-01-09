@@ -2,6 +2,16 @@
 --- Caster hats
 
 #newitem
+#id nohelmet
+#gameid -1
+#sprite /graphics/helmet/caster/nohelmet.png
+#armor
+#tag "tier 1"
+#tag "tier 2"
+#tag "tier 3"
+#enditem
+
+#newitem
 #id hood1
 #gameid -1
 #sprite /graphics/helmet/caster/hood1.png
