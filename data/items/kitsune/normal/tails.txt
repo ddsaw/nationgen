@@ -2,5 +2,24 @@
 #id orange_foxtail
 #gameid -1
 #sprite /graphics/kitsune/normal_orange.png
-#define "#descr 'All Kitsune have a fluffy tail.'"
+#enditem
+
+#newitem
+#id orange_twotail
+#gameid -1
+#basechance 0.1
+#sprite /graphics/kitsune/twotails_orange.png
+#define "#hp +4"
+#define "#mr +3"
+#define "#str +2"
+#define "#def +2"
+#define "#att +2"
+#define "#prec +2"
+#define "#gcost +15"
+#define "#maxage 200"
+#subraceprefix "Two-tails"
+#theme elite
+#notfortier 1
+#tier 3
+#define "#descr 'Some especially accomplished kitsune may manifest a second tail as a sign of their growing power and competence.'"
 #enditem

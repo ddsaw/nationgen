@@ -1,0 +1,130 @@
+-- Generic theme with high diversity and low cohesion
+#newtheme
+#name default
+#basechance 4
+#endtheme
+
+
+-- Gimmick themes (mandatory)
+
+#newtheme
+#type gimmick
+#name none
+#basechance 2
+#racedefinition "#magicpriority astral 3"
+#racedefinition "#magicpriority fire 2"
+#racedefinition "#magicpriority air 4"
+#racedefinition "#magicpriority water 1"
+#racedefinition "#magicpriority earth 2"
+#racedefinition "#magicpriority nature 6"
+#racedefinition "#magicpriority blood 0.5"
+#racedefinition "#magicpriority death 0.5"
+#endtheme
+
+#newtheme
+#type gimmick
+#name trickster
+#basechance 0.5
+#racedefinition "#unitcommand '#illusion'"
+#racedefinition "#unitcommand '#stealthy +5'"
+#racedefinition "#unitcommand '#gcost +10'"
+#racedefinition "#unitcommand '#gcost *1.15'"
+#racedefinition "#magicpriority astral 3"
+#racedefinition "#magicpriority fire 2"
+#racedefinition "#magicpriority air 8"
+#racedefinition "#magicpriority water 1"
+#racedefinition "#magicpriority earth 2"
+#racedefinition "#magicpriority nature 4"
+#racedefinition "#magicpriority blood 0.5"
+#racedefinition "#magicpriority death 0.5"
+#endtheme
+
+#newtheme
+#type gimmick
+#name illusion
+#basechance 0.5
+#racedefinition "#unitcommand '#illusion'"
+#racedefinition "#unitcommand '#gcost +10'"
+#racedefinition "#magicpriority astral 3"
+#racedefinition "#magicpriority fire 2"
+#racedefinition "#magicpriority air 5"
+#racedefinition "#magicpriority water 1"
+#racedefinition "#magicpriority earth 2"
+#racedefinition "#magicpriority nature 4"
+#racedefinition "#magicpriority blood 0.5"
+#racedefinition "#magicpriority death 0.5"
+#endtheme
+
+#newtheme
+#type gimmick
+#name stealth
+#basechance 1
+#racedefinition "#unitcommand '#stealthy +5'"
+#racedefinition "#unitcommand '#gcost +3'"
+#racedefinition "#unitcommand '#gcost *1.05'"
+#racedefinition "#magicpriority astral 3"
+#racedefinition "#magicpriority fire 2"
+#racedefinition "#magicpriority air 6"
+#racedefinition "#magicpriority water 1"
+#racedefinition "#magicpriority earth 2"
+#racedefinition "#magicpriority nature 4"
+#racedefinition "#magicpriority blood 0.5"
+#racedefinition "#magicpriority death 0.5"
+#endtheme
+
+#newtheme
+#type gimmick
+#name magicpower
+#basechance 1
+#racedefinition "#unitcommand '#magicpower +1'"
+#racedefinition "#unitcommand '#gcost +10'"
+#racedefinition "#unitcommand '#gcost *1.05'"
+#racedefinition "#magicpriority astral 8"
+#racedefinition "#magicpriority fire 4"
+#racedefinition "#magicpriority air 4"
+#racedefinition "#magicpriority water 1"
+#racedefinition "#magicpriority earth 2"
+#racedefinition "#magicpriority nature 4"
+#racedefinition "#magicpriority blood 0.5"
+#racedefinition "#magicpriority death 0.5"
+#endtheme
+
+
+#newtheme
+#type gimmick
+#name magicpowerglam
+#basechance 0.25
+#racedefinition "#unitcommand '#magicpower +1'"
+#racedefinition "#unitcommand '#illusion'"
+#racedefinition "#unitcommand '#gcost +15'"
+#racedefinition "#unitcommand '#gcost *1.15'"
+#racedefinition "#magicpriority astral 8"
+#racedefinition "#magicpriority fire 2"
+#racedefinition "#magicpriority air 6"
+#racedefinition "#magicpriority water 1"
+#racedefinition "#magicpriority earth 2"
+#racedefinition "#magicpriority nature 4"
+#racedefinition "#magicpriority blood 0.5"
+#racedefinition "#magicpriority death 0.5"
+#endtheme
+
+#newtheme
+#type gimmick
+#name magicpowerglamstealth
+#basechance 0.1
+#racedefinition "#unitcommand '#magicpower +1'"
+#racedefinition "#unitcommand '#illusion'"
+#racedefinition "#unitcommand '#stealthy +5'"
+#racedefinition "#unitcommand '#gcost +15'"
+#racedefinition "#unitcommand '#gcost *1.20'"
+#racedefinition "#magicpriority astral 8"
+#racedefinition "#magicpriority fire 2"
+#racedefinition "#magicpriority air 8"
+#racedefinition "#magicpriority water 1"
+#racedefinition "#magicpriority earth 2"
+#racedefinition "#magicpriority nature 4"
+#racedefinition "#magicpriority blood 0.5"
+#racedefinition "#magicpriority death 0.5"
+#endtheme
+
+

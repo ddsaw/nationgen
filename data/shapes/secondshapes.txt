@@ -69,7 +69,7 @@
 #command "#size 1"
 #command "#hp 5"
 #command "#prot 2"
-#command "#mor 4"
+#command "#mor 1"
 #command "#mr 14"
 #command "#enc 2"
 #command "#str 6"

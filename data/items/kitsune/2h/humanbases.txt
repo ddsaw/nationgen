@@ -8,7 +8,7 @@
 #command "#maxage 100"
 #command "#att 11"
 #command "#def 12"
-#command "#mor 9"
+#command "#mor 10"
 #command "#str 8"
 #command "#mr 12"
 #command "#hp 9"

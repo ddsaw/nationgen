@@ -2,7 +2,6 @@
 #id orange_foxtail
 #gameid -1
 #sprite /graphics/kitsune/normal_orange.png
-#define "#descr 'All Kitsune have a fluffy tail.'"
 #enditem
 
 #newitem
@@ -22,5 +21,26 @@
 #theme sacred
 #notfortier 1
 #tier 3
-#define "#descr 'Some Kitsune have two fluffy tails, making them fluffier and thus inherently more powerful.'"
+#define "#descr 'Some especially accomplished kitsune may manifest a second tail as a sign of their growing power and competence.'"
+#enditem
+
+#newitem
+#id orange_threetail
+#gameid -1
+#sprite /graphics/kitsune/threetails_orange.png
+#basechance 0.5
+#define "#hp +10"
+#define "#mr +6"
+#define "#str +4"
+#define "#def +4"
+#define "#att +4"
+#define "#prec +4"
+#define "#gcost +35"
+#define "#maxage 300"
+#subraceprefix "Three-tails"
+#theme elite
+#theme sacred
+#notfortier 1
+#tier 3
+#define "#descr 'Rarely, Kitsune may have even more than two tails, though sightings of numbers above 3 are exceedingly rare. What is known however is that such Kitsune are almost universally mages, priests or revered holy soldiers.'"
 #enditem

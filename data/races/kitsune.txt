@@ -1,16 +1,19 @@
 #newrace
 #name "Kitsune"
 #visiblename "Kitsune"
-#basechance 0.2
+#basechance 0.1
 
 #all_troops_elite
 
 #extrapdmulti 4
 
+#racethemes kitsune_themes
+#freetheme gimmick
+
+
 #pose kitsunetroops
 #pose kitsunemages
 #pose kitsunecavalry
-#pose generic_scouts
 
 #longsyllables /data/names/nations/oriental/longsyllables.txt
 #shortsyllables /data/names/nations/oriental/shortsyllables.txt
@@ -35,6 +38,6 @@
 #chanceinc hastheme "oriental" *2
 
 
-#description "Kitsune are Youkai that take the shape of comely women with vulpine features. When in grave danger, Kitsune are known to turn into their true form and flee."
+#description "Kitsune are a subspecies of Hengeyokai, magical shapeshifters of the far east. Kitsune in particular are known to prefer taking the form of comely young women, however their true form is that of a mere fox."
 
 #endrace

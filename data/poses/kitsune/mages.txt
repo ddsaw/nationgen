@@ -90,3 +90,77 @@
 #generateitem 1 hair
 #generateitem 1 ears
 #endpose
+
+--Mounted Battlemage, thugbait
+#newpose
+#role "mounted"
+#role "mage"
+#role "priest"
+#tier 1
+#basechance 0.05
+
+#baseitemslot feet 0
+
+#renderorder "shadow cloakb tails mount basesprite shirt legs armor cloakf bonusweapon weapon offhandw hands ears hair helmet offhanda overlay"
+
+#load basesprite /data/items/kitsune/normal/humanbases.txt
+#load mount /data/items/human/human_mounted/humanmounts.txt 5 -15
+
+#load hands /data/items/kitsune/normal/humanhands.txt
+#load tails /data/items/kitsune/caster/tails_tier1.txt
+#load ears /data/items/kitsune/normal/ears.txt
+
+#load cloakf /data/items/human/normal/humancloakf.txt
+#load cloakb /data/items/human/normal/humancloakb.txt
+#load shirt /data/items/kitsune/normal/humanshirt.txt
+
+#load armor /data/items/oriental_female/mounted/armor.txt
+#load helmet /data/items/oriental_female/normal/helmet.txt
+#load hair /data/items/kitsune/normal/humanhair.txt
+
+#load weapon /data/items/oriental/normal/weapon.txt
+#load bonusweapon /data/items/human/normal/humanbonusranged.txt
+#load lanceslot /data/items/human/human_mounted/lance.txt
+
+#load offhand /data/items/oriental/normal/shields_cavalry.txt
+
+#load overlay /data/items/human/human_mounted/mountedoverlay.txt
+
+#writeslot lanceslot
+#generateitem 1 tails
+#generateitem 1 hair
+#generateitem 1 ears
+#endpose
+
+#newpose
+#role "infantry"
+#role "mage"
+#role "priest"
+#tier 1
+#tier 2
+#basechance 0.1
+
+#renderorder "shadow cloakb tails basesprite mount shirt legs armor cloakf quiver spaulder bonusweapon weapon offhandw hands ears hair helmet offhanda overlay"
+
+#load basesprite /data/items/kitsune/2h/humanbases.txt
+#load shadow /data/items/kitsune/normal/shadow.txt
+#load hands /data/items/kitsune/2h/humanhands.txt
+#load tails /data/items/kitsune/caster/tails_tier2.txt
+#load legs /data/items/oriental_female/normal/legs.txt
+#load ears /data/items/kitsune/normal/ears.txt
+
+#load armor /data/items/oriental_female/2h/armor.txt
+#load spaulder /data/items/oriental_female/2h/spaulder.txt
+
+#load weapon /data/items/oriental/2h/weapon.txt
+
+#load hair /data/items/kitsune/normal/humanhair.txt offsetx 0 offsety 1
+#load helmet /data/items/oriental_female/normal/helmet.txt
+
+#load cloakf /data/items/kitsune/normal/humancloakf.txt
+#load cloakb /data/items/kitsune/normal/humancloakb.txt
+
+#generateitem 1 tails
+#generateitem 1 hair
+#generateitem 1 ears
+#endpose
